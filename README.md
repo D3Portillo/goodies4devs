@@ -13,6 +13,13 @@
 # Practica / Retos / Ranked
 - https://codefights.com
 - https://www.hackerrank.com/
+- https://www.codewars.com/
+- https://code.google.com/codejam/
+
+# Youtube 
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+- [Codegrid](https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw)
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 # Herramientas
 
