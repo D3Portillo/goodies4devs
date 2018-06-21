@@ -47,6 +47,11 @@
 > Emulador android para PC
 [androidcommunity](https://androidcommunity.com/nox-app-player-is-a-new-android-os-emulator-for-pc-20150817/)
 
+## [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
+> Una coleccion de herramientas para generar assets de iconos para notificaciones, app, animaciones, etc.
+## [Image Vectorizer](https://www.vectorizer.io/)
+> Convertidor de imagenes rasterisadas (jpg, png, etc.) a SVG con una precicion y calidad muy alta
+
 # Cheat Sheets
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [VsCode](https://devhints.io/vscode)
