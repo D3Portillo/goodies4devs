@@ -5,9 +5,9 @@
   - [Youtube](#youtube)
   - [Herramientas](#herramientas)
 # Cursos
-- [reactJs](https://www.edx.org/es/introduction-to-reactjs)
-- [advanced css](https://www.edx.org/es/course/advanced-css-concepts)
-- [html5 apps and games](https://www.edx.org/es/course/html5-apps-games-w3cx-html5-2x)
+- [Introduccion a ReactJS](https://www.edx.org/es/introduction-to-reactjs)
+- [CSS Avanzado](https://www.edx.org/es/course/advanced-css-concepts)
+- [Juegos y Apps con HTML5](https://www.edx.org/es/course/html5-apps-games-w3cx-html5-2x)
 
 # CodeCamps
 - https://www.freecodecamp.org/
