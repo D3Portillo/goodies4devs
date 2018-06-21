@@ -38,3 +38,10 @@
 > Gitter recurso de mensajería instantánea y sistema de Chat para desarrolladores y usuarios de GitHub.
 [wikipedia.org](https://en.wikipedia.org/wiki/Gitter)
 
+## [Visual Studio Code](https://code.visualstudio.com/)
+> Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows , Linux y macOS. Incluye soporte para la depuración, control integrado de Git , resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
+[wikipedia.org](https://es.wikipedia.org/wiki/Visual_Studio_Code)
+
+# Cheat Sheets
+- [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [VsCode](https://devhints.io/vscode)
