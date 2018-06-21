@@ -43,6 +43,10 @@
 > Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows , Linux y macOS. Incluye soporte para la depuración, control integrado de Git , resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
 [wikipedia.org](https://es.wikipedia.org/wiki/Visual_Studio_Code)
 
+## [Nox Player](https://www.bignox.com/)
+> Emulador android para PC
+[androidcommunity](https://androidcommunity.com/nox-app-player-is-a-new-android-os-emulator-for-pc-20150817/)
+
 # Cheat Sheets
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [VsCode](https://devhints.io/vscode)
