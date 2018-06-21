@@ -4,6 +4,7 @@
   - [Practica / Retos / Ranked](#practica--retos--ranked)
   - [Youtube](#youtube)
   - [Herramientas](#herramientas)
+  - [Cheat Sheets](#cheat-sheets)
 # Cursos
 - [Introduccion a ReactJS](https://www.edx.org/es/introduction-to-reactjs)
 - [CSS Avanzado](https://www.edx.org/es/course/advanced-css-concepts)
