@@ -1,6 +1,7 @@
 # Indice
 - [Cursos](#cursos)
 - [CodeCamps](#codecamps)
+- [Lectura / Tutoriales / JS]((#lectura--tutoriales--js))
 - [Practica / Retos / Ranked](#practica--retos--ranked)
 - [Youtube](#youtube)
 - [Herramientas](#herramientas)
