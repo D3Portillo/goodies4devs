@@ -1,29 +1,29 @@
 # Indice
-  - [Cursos](#cursos)
-  - [CodeCamps](#codecamps)
-  - [Practica / Retos / Ranked](#practica--retos--ranked)
-  - [Youtube](#youtube)
-  - [Herramientas](#herramientas)
-  - [Cheat Sheets](#cheat-sheets)
+- [Cursos](#cursos)
+- [CodeCamps](#codecamps)
+- [Practica / Retos / Ranked](#practica--retos--ranked)
+- [Youtube](#youtube)
+- [Herramientas](#herramientas)
+- [Cheat Sheets](#cheat-sheets)
 # Cursos
 - [Introduccion a ReactJS](https://www.edx.org/es/introduction-to-reactjs)
 - [CSS Avanzado](https://www.edx.org/es/course/advanced-css-concepts)
 - [Juegos y Apps con HTML5](https://www.edx.org/es/course/html5-apps-games-w3cx-html5-2x)
 
 # CodeCamps
-- https://www.freecodecamp.org/
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
-# Lectura
-- https://developer.mozilla.org/es/docs/Web/JavaScript
-- https://learncodethehardway.org/
-- https://eloquentjavascript.net/
-- https://www.w3schools.com/
+# Lectura / Tutoriales / JS
+- [Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Learn to code the HardWay](https://learncodethehardway.org/)
+- [Eloquent JS](https://eloquentjavascript.net/)
+- [W3School](https://www.w3schools.com/)
 
 # Practica / Retos / Ranked
-- https://codefights.com
-- https://www.hackerrank.com/
-- https://www.codewars.com/
-- https://code.google.com/codejam/
+- [Code Fights](https://codefights.com)
+- [Hacker Rank](https://www.hackerrank.com/)
+- [Code Wars](https://www.codewars.com/)
+- [Code Jam by Google](https://code.google.com/codejam/)
 
 # Youtube 
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
@@ -49,6 +49,7 @@
 
 ## [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
 > Una coleccion de herramientas para generar assets de iconos para notificaciones, app, animaciones, etc.
+
 ## [Image Vectorizer](https://www.vectorizer.io/)
 > Convertidor de imagenes rasterisadas (jpg, png, etc.) a SVG con una precicion y calidad muy alta
 
