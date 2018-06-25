@@ -55,6 +55,13 @@
 ## [Image Vectorizer](https://www.vectorizer.io/)
 > Convertidor de imagenes rasterisadas (jpg, png, etc.) a SVG con una precicion y calidad muy alta
 
+## [CssMatic](https://www.cssmatic.com/)
+> The ultimate CSS tools for web designers
+
+## [QUILL](https://quilljs.com/)
+> Your powerful rich text editor.
+Editor de texto tipo WYSIWYG, **Recomendado**
+
 # Cheat Sheets
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [VsCode](https://devhints.io/vscode)
