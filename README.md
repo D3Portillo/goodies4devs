@@ -24,7 +24,8 @@
 - [Code Fights](https://codefights.com)
 - [Hacker Rank](https://www.hackerrank.com/)
 - [Code Wars](https://www.codewars.com/)
-- [Code Jam by Google](https://code.google.com/codejam/)
+- [Code Jam by Google](https://code.google.com/codejam/)https://learngitbranching.js.org/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 # Youtube 
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
@@ -57,3 +58,4 @@
 # Cheat Sheets
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [VsCode](https://devhints.io/vscode)
+- [Git](https://services.github.com/on-demand/resources/cheatsheets/)
