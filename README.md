@@ -24,7 +24,7 @@
 - [Code Fights](https://codefights.com)
 - [Hacker Rank](https://www.hackerrank.com/)
 - [Code Wars](https://www.codewars.com/)
-- [Code Jam by Google](https://code.google.com/codejam/)https://learngitbranching.js.org/)
+- [Code Jam by Google](https://code.google.com/codejam/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 
 # Youtube 
