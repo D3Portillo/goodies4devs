@@ -66,3 +66,5 @@ Editor de texto tipo WYSIWYG, **Recomendado**
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [VsCode](https://devhints.io/vscode)
 - [Git](https://services.github.com/on-demand/resources/cheatsheets/)
+- [PUG](https://devhints.io/pug)
+- [GIT](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
