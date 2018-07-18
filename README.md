@@ -14,11 +14,13 @@
 # CodeCamps
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 
-# Lectura / Tutoriales / JS
+# Lectura / Tutoriales 
 - [Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - [Learn to code the HardWay](https://learncodethehardway.org/)
 - [Eloquent JS](https://eloquentjavascript.net/)
 - [W3School](https://www.w3schools.com/)
+- [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/) 
+
 
 # Practica / Retos / Ranked
 - [Code Fights](https://codefights.com)
@@ -58,13 +60,13 @@
 ## [CssMatic](https://www.cssmatic.com/)
 > The ultimate CSS tools for web designers
 
-## [QUILL](https://quilljs.com/)
-> Your powerful rich text editor.
-Editor de texto tipo WYSIWYG, **Recomendado**
-
 # Cheat Sheets
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [VsCode](https://devhints.io/vscode)
-- [Git](https://services.github.com/on-demand/resources/cheatsheets/)
-- [PUG](https://devhints.io/pug)
 - [GIT](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [JS](https://htmlcheatsheet.com/js/)
+
+# Librerias y Miscellaneous
+- [Kivy - Python](https://kivy.org/#home)
+- [Mojs](http://mojs.io/)
+- [QUILL](https://quilljs.com/)
+- [Material UI](https://www.materialui.co/)
