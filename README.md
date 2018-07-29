@@ -72,4 +72,7 @@
 # Librerias y Miscellaneous
 - [Kivy - Python](https://kivy.org/#home)
 - [Mojs](http://mojs.io/)
+- [TensorFlow](https://www.tensorflow.org/)
 - [QUILL](https://quilljs.com/)
+- [Webpack](https://webpack.js.org/)
+- [Gulp](https://gulpjs.com/)
