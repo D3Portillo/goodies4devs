@@ -70,6 +70,7 @@
 > Heroku es una plataforma como servicio en la nube (PaaS) que soporta una diversidad de lenguajes
 
 # Cheat Sheets
+- [Devhints](https://devhints.io/)
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [GIT](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [JS](https://htmlcheatsheet.com/js)
