@@ -1,7 +1,7 @@
 # Indice
 - [Cursos](#cursos)
 - [CodeCamps](#codecamps)
-- [Lectura / Tutoriales / JS](#lectura--tutoriales--js)
+- [Lectura / Tutoriales](#lectura--tutoriales)
 - [Practica / Retos / Ranked](#practica--retos--ranked)
 - [Youtube](#youtube)
 - [Herramientas](#herramientas)
@@ -66,15 +66,26 @@
 ## [Material UI](https://www.materialui.co/)
 > Colors and general material related stuff
 
+## [Heroku](https://dashboard.heroku.com/)
+> Heroku es una plataforma como servicio en la nube (PaaS) que soporta una diversidad de lenguajes
+
 # Cheat Sheets
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [GIT](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-- [JS](https://htmlcheatsheet.com/js/)
+- [JS](https://htmlcheatsheet.com/js)
+
+# Colaboración Grupal / Systemas de control de versiones
+- [Trello](https://trello.com)
+- [Gitter](https://gitter.im)
+- [BitBucket](https://bitbucket.org)
+- [Github](https://github.com)
+- [Slack](https://slack.com)
 
 # Librerias y Miscellaneous
 - [Kivy - Python](https://kivy.org/#home)
-- [Mojs](http://mojs.io/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [QUILL](https://quilljs.com/)
-- [Webpack](https://webpack.js.org/)
-- [Gulp](https://gulpjs.com/)
+- [Mojs](http://mojs.io)
+- [P5](https://gulpjs.com/)
+- [TensorFlow](https://www.tensorflow.org)
+- [QUILL](https://quilljs.com)
+- [Webpack](https://webpack.js.org)
+- [Gulp](https://gulpjs.com)
