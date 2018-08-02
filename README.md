@@ -8,6 +8,7 @@
 - [Cheat Sheets](#cheat-sheets)
 - [Colaboración grupal / Sistemas de control de versiones](#colaboración-grupal--sistemas-de-control-de-versiones)
 - [Librerias y miscellaneous](#librerias-y-miscellaneous)
+- [Que más Aprender](#que-más-aprender)
 
 # Cursos
 - [Introduccion a ReactJS - Edx](https://www.edx.org/es/introduction-to-reactjs)
@@ -106,5 +107,11 @@
 
 # Que más aprender?
 
-- [Lua](https://www.lua.org/)
-  > Scripting Language
+|Nombre|Descripción|
+|------|-----------|
+|[Lua](https://www.lua.org/)|Scripting Language|
+|[Python](https://www.python.org)|Es un lenguaje de programación interpretado cuya filosofía hace hincapié en un código legible|
+|[Rust](https://www.rust-lang.org)|Rust is a systems programming language that runs blazingly fast|
+|[Redux - WesBos](https://learnredux.com/)|A short course intended as a next steps for someone already comfortable with React|
+|[Flutter](https://flutter.io/)|Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time|
+|[Dart](https://www.dartlang.org/)|Developers at Google and elsewhere use Dart to create high-quality, mission-critical apps for iOS, Android, and the web|
