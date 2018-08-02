@@ -6,6 +6,7 @@
 - [Youtube](#youtube)
 - [Herramientas](#herramientas)
 - [Cheat Sheets](#cheat-sheets)
+
 # Cursos
 - [Introduccion a ReactJS - Edx](https://www.edx.org/es/introduction-to-reactjs)
 - [CSS Avanzado - Edx](https://www.edx.org/es/course/advanced-css-concepts)
@@ -23,6 +24,7 @@
 - [W3School](https://www.w3schools.com/)
 - [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/) 
 - [Intro a React](https://reactjs.org/tutorial/tutorial.html)
+- [ReactNative & Express](http://www.reactnativeexpress.com/)
 
 
 # Practica / Retos / Ranked
@@ -31,6 +33,7 @@
 - [Code Wars](https://www.codewars.com/)
 - [Code Jam by Google](https://code.google.com/codejam/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+- [WorkShopper](https://github.com/workshopper)
 
 # Youtube 
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
@@ -69,6 +72,12 @@
 ## [Heroku](https://dashboard.heroku.com/)
 > Heroku es una plataforma como servicio en la nube (PaaS) que soporta una diversidad de lenguajes
 
+## [Payhip](https://payhip.com/)
+> We make it a piece of cake to sell and promote your ebooks, memberships, software, design assets, music or any type of digital products directly to your customers.
+
+## [JSS](https://github.com/cssinjs/jss)
+> JSS is a more powerful abstraction over CSS. It uses JavaScript as a language to describe styles in a declarative and maintainable way.
+
 # Cheat Sheets
 - [Devhints](https://devhints.io/)
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
@@ -90,3 +99,4 @@
 - [QUILL](https://quilljs.com)
 - [Webpack](https://webpack.js.org)
 - [Gulp](https://gulpjs.com)
+- [Awwwards](https://www.awwwards.com/)
