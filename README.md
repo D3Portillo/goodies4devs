@@ -14,7 +14,7 @@
 - [CSS Avanzado - Edx](https://www.edx.org/es/course/advanced-css-concepts)
 - [Juegos y Apps con HTML5 - Edx](https://www.edx.org/es/course/html5-apps-games-w3cx-html5-2x)
 - [Mobile App Development with React Native - Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
-
+- [C++ intermedio](https://www.edx.org/es/course/intermediate-c-0)
 # CodeCamps
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [DataCamp](https://www.datacamp.com/)
@@ -102,3 +102,4 @@
 - [Webpack](https://webpack.js.org)
 - [Gulp](https://gulpjs.com)
 - [Awwwards](https://www.awwwards.com/)
+- [Facebook Flux](https://facebook.github.io/flux/)
