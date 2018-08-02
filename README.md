@@ -6,7 +6,7 @@
 - [Youtube](#youtube)
 - [Herramientas](#herramientas)
 - [Cheat Sheets](#cheat-sheets)
-- [Colaboración grupal / Sistemas de control de versiones](#colaboración-grupal--systemas-de-control-de-versiones)
+- [Colaboración grupal / Sistemas de control de versiones](#colaboración-grupal--sistemas-de-control-de-versiones)
 - [Librerias y miscellaneous](#librerias-y-miscellaneous)
 
 # Cursos
