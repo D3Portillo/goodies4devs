@@ -6,6 +6,8 @@
 - [Youtube](#youtube)
 - [Herramientas](#herramientas)
 - [Cheat Sheets](#cheat-sheets)
+- [Colaboración grupal / Sistemas de control de versiones](#colaboración-grupal--systemas-de-control-de-versiones)
+- [Librerias y miscellaneous](#librerias-y-miscellaneous)
 
 # Cursos
 - [Introduccion a ReactJS - Edx](https://www.edx.org/es/introduction-to-reactjs)
@@ -84,7 +86,7 @@
 - [GIT](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [JS](https://htmlcheatsheet.com/js)
 
-# Colaboración Grupal / Systemas de control de versiones
+# Colaboración Grupal / Sistemas de control de versiones
 - [Trello](https://trello.com)
 - [Gitter](https://gitter.im)
 - [BitBucket](https://bitbucket.org)
