@@ -17,6 +17,8 @@
 - [Mobile App Development with React Native - Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
 - [C++ intermedio](https://www.edx.org/es/course/intermediate-c-0)
 - [Redux - WesBos](https://learnredux.com/)
+- [Web Programming with Python and JavaScript - Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/)
+
 # CodeCamps
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [DataCamp](https://www.datacamp.com/)
@@ -107,6 +109,7 @@
 - [Facebook Flux](https://facebook.github.io/flux/)
 - [Browser Cookies](https://www.npmjs.com/package/browser-cookies)
 - [JSS](https://github.com/cssinjs/jss)
+- [Style Components](https://www.styled-components.com/)
 
 # Que más aprender?
 
