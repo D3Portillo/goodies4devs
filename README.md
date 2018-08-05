@@ -16,6 +16,7 @@
 - [Juegos y Apps con HTML5 - Edx](https://www.edx.org/es/course/html5-apps-games-w3cx-html5-2x)
 - [Mobile App Development with React Native - Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
 - [C++ intermedio](https://www.edx.org/es/course/intermediate-c-0)
+- [Redux - WesBos](https://learnredux.com/)
 # CodeCamps
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [DataCamp](https://www.datacamp.com/)
@@ -104,6 +105,8 @@
 - [Gulp](https://gulpjs.com)
 - [Awwwards](https://www.awwwards.com/)
 - [Facebook Flux](https://facebook.github.io/flux/)
+- [Browser Cookies](https://www.npmjs.com/package/browser-cookies)
+- [JSS](https://github.com/cssinjs/jss)
 
 # Que más aprender?
 
@@ -112,6 +115,5 @@
 |[Lua](https://www.lua.org/)|Scripting Language|
 |[Python](https://www.python.org)|Es un lenguaje de programación interpretado cuya filosofía hace hincapié en un código legible|
 |[Rust](https://www.rust-lang.org)|Rust is a systems programming language that runs blazingly fast|
-|[Redux - WesBos](https://learnredux.com/)|A short course intended as a next steps for someone already comfortable with React|
 |[Flutter](https://flutter.io/)|Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time|
 |[Dart](https://www.dartlang.org/)|Developers at Google and elsewhere use Dart to create high-quality, mission-critical apps for iOS, Android, and the web|
