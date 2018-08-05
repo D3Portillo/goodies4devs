@@ -7,6 +7,7 @@
 - [Herramientas](#herramientas)
 - [Cheat Sheets](#cheat-sheets)
 - [Colaboración grupal / Sistemas de control de versiones](#colaboración-grupal--sistemas-de-control-de-versiones)
+- [Inspiración](#inspiración)
 - [Librerias y miscellaneous](#librerias-y-miscellaneous)
 - [Que más Aprender](#que-más-aprender)
 
@@ -31,6 +32,7 @@
 - [Learn Python The Hard Way](https://learnpythonthehardway.org/python3/) 
 - [Intro a React](https://reactjs.org/tutorial/tutorial.html)
 - [ReactNative & Express](http://www.reactnativeexpress.com/)
+- [Tu primera Progressive Web App ](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
 
 
 # Practica / Retos / Ranked
@@ -47,6 +49,7 @@
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 # Herramientas
+
 ## [CodePen](https://codepen.io)
 > Codepen es un campo de pruebas para vistas o front-end de la web. Es una herramienta de testing interactivo enfocada en educar y compartir. Bien sea que necesites probar un caso de prueba reducido para encontrar errores o simplemente dar un vistazo de tu ultima creación y obtener feedback de otros usuarios, Codepen te viene como anillo al dedo.
 [hipertextual.com](https://hipertextual.com/archivo/2014/07/codepen-herramienta-testing)
@@ -105,11 +108,16 @@
 - [QUILL](https://quilljs.com)
 - [Webpack](https://webpack.js.org)
 - [Gulp](https://gulpjs.com)
-- [Awwwards](https://www.awwwards.com/)
 - [Facebook Flux](https://facebook.github.io/flux/)
 - [Browser Cookies](https://www.npmjs.com/package/browser-cookies)
 - [JSS](https://github.com/cssinjs/jss)
-- [Style Components](https://www.styled-components.com/)
+- [Styled Components](https://www.styled-components.com/)
+- [Polymer](https://www.polymer-project.org/)
+- [Meteor](https://www.meteor.com/)
+
+# Inspiración
+- [Awwwards](https://www.awwwards.com/)
+- [How Blind People Code](https://medium.freecodecamp.org/how-blind-people-code-fdb64e3bf5c)
 
 # Que más aprender?
 
