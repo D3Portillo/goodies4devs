@@ -84,8 +84,8 @@
 ## [Payhip](https://payhip.com/)
 > We make it a piece of cake to sell and promote your ebooks, memberships, software, design assets, music or any type of digital products directly to your customers.
 
-## [JSS](https://github.com/cssinjs/jss)
-> JSS is a more powerful abstraction over CSS. It uses JavaScript as a language to describe styles in a declarative and maintainable way.
+## [Repl.it](https://repl.it)
+> IDE y Compilador en linea con compatibilidad para +30 lenguajes diferentes
 
 # Cheat Sheets
 - [Devhints](https://devhints.io/)
