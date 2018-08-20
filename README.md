@@ -88,7 +88,10 @@
 ## [Repl.it](https://repl.it)
 > IDE y Compilador en linea con compatibilidad para +30 lenguajes diferentes
 
-# Cheat Sheets
+## [Snack Expo](https://snack.expo.io/)
+> Te gusta react-native? , entonces debes probar snack de Expo, todo lo necesario para crear una app , ide, live-previews, todo.
+
+# Cheat Sheets 
 - [Devhints](https://devhints.io/)
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [GIT](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
