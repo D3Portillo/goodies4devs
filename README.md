@@ -85,8 +85,11 @@
 ## [Payhip](https://payhip.com/)
 > We make it a piece of cake to sell and promote your ebooks, memberships, software, design assets, music or any type of digital products directly to your customers.
 
+## [Buy me a coffee](https://www.buymeacoffee.com/)
+> A free, fast and beautiful way for creators to receive support and share premium content.
+
 ## [Repl.it](https://repl.it)
-> IDE y Compilador en linea con compatibilidad para +30 lenguajes diferentes
+> IDE y Compilador en linea con compatibilidad para +30 lenguajes diferentes.
 
 ## [Snack Expo](https://snack.expo.io/)
 > Te gusta react-native? , entonces debes probar snack de Expo, todo lo necesario para crear una app , ide, live-previews, todo.
