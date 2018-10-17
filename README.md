@@ -123,6 +123,8 @@
 # Inspiración
 - [Awwwards](https://www.awwwards.com/)
 - [How Blind People Code](https://medium.freecodecamp.org/how-blind-people-code-fdb64e3bf5c)
+- [Uplabs](https://www.uplabs.com/)
+- [Dribble](https://dribbble.com/)
 
 # Que más aprender?
 
