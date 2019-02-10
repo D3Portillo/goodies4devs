@@ -94,6 +94,9 @@
 ## [Snack Expo](https://snack.expo.io/)
 > Te gusta react-native? , entonces debes probar snack de Expo, todo lo necesario para crear una app , ide, live-previews, todo.
 
+## [Regexr](https://regexr.com/)
+> Para esos ratos que quieres armar una regEx antes de probarla en el código :laughing:
+
 # Cheat Sheets 
 - [Devhints](https://devhints.io/)
 - [MarkDown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
