@@ -132,6 +132,11 @@
 - [Uplabs](https://www.uplabs.com/)
 - [Dribble](https://dribbble.com/)
 
+# Te sientes pro?
+|Nombre|Descripción|
+|------|-----------|
+|[Dwitter](https://www.dwitter.net/)|El twitter de los **pros** en JS|
+  
 # Que más aprender?
 
 |Nombre|Descripción|
