@@ -2,7 +2,7 @@
 
 Repositorio que intenta **acumular** una lista de temas y recurzos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
-nuevo, que de cierta manera no la verás en la Universidad
+nuevo, que de cierta manera no la verás en la Universidad.
 
 > Puede tener ciertos ó muchos **horrores** de ortografía, porfis ayudame
 > corrigiendo eso :3
@@ -32,7 +32,7 @@ puedes fortalecer la menera en que codificas :3
 ### [Code Fights](https://codefights.com)
 
 > Preaparate para entrevistas con grandes compañias como google, facebook, entre
-> otras, resolviendo acertijos fuertes y compitiendo
+> otras, resolviendo acertijos fuertes y compitiendo.
 
 ### [HackerRank](https://www.hackerrank.com/)
 
@@ -50,16 +50,16 @@ puedes fortalecer la menera en que codificas :3
 
 ### [WorkShopper](https://github.com/workshopper)
 
-> Crea para aprender y aprende creando
+> Crea para aprender y aprende creando.
 
 ### [Exercism](https://exercism.io)
 
 > Necesitas docenas de retos para ver que bien te va con un lenguaje de
-> programación y además que te en _mentoría_, deberías visitar esté sitio web
+> programación y además que te en _mentoría_, deberías visitar esté sitio web.
 
 ### [Froontloops](https://frontloops.io/)
 
-> Aprende del desarrollo web haciendo cosas del mundo real
+> Aprende del desarrollo web haciendo cosas del mundo real.
 
 # Canales de Youtube
 
@@ -69,11 +69,11 @@ puedes fortalecer la menera en que codificas :3
 
 ### [Codegrid](https://www.youtube.com/channel/UC7pVho4O31FyfQsZdXWejEw)
 
-> Para los amantes de los buenos diseños web y como maquetarlos
+> Para los amantes de los buenos diseños web y como maquetarlos.
 
 ### [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
-> Te gusta Javascrip?, Processing y el live coding con bugs?, Shiffman te
+> Te gusta Javascript?, Processing y el live coding con bugs?, Shiffman te
 > encatará
 
 # Dev tools
@@ -91,16 +91,16 @@ puedes fortalecer la menera en que codificas :3
 ### [Image Vectorizer](https://www.vectorizer.io/)
 
 > Convertidor de imagenes rasterisadas (jpg, png, etc.) a SVG con una precicion
-> y calidad muy alta
+> y calidad muy alta.
 
 ### [CssMatic](https://www.cssmatic.com/)
 
-> Una super herramienta para cuando te olvidas de , box-shadows, gradients, etc
+> Una super herramienta para cuando te olvidas de , box-shadows, gradients, etc.
 
 ### [Heroku](https://dashboard.heroku.com/)
 
 > Heroku es una plataforma como servicio en la nube (PaaS) que soporta una
-> diversidad de lenguajes
+> diversidad de lenguajes.
 
 ### [Repl.it](https://repl.it)
 
@@ -120,7 +120,7 @@ puedes fortalecer la menera en que codificas :3
 
 ### [Awwwards](https://www.awwwards.com/)
 
-> Sitio donde están los mejores diseños web
+> Sitio donde están los mejores diseños web.
 
 ### [How Blind People Code](https://medium.freecodecamp.org/how-blind-people-code-fdb64e3bf5c)
 
@@ -138,4 +138,4 @@ puedes fortalecer la menera en que codificas :3
 
 ### [Dwitter](https://www.dwitter.net/)
 
-> El twitter de los **pros** en Javascript
+> El twitter de los **pros** en Javascript.
