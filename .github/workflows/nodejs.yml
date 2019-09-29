@@ -1,0 +1,20 @@
+name: Updating readme file
+on: 
+  push:
+    branch:
+      - dev
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [10.x, 11.x]
+    steps:
+    - uses: actions/checkout@v1
+    - name: using Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: building readme.md
+      run: |
+        node index
