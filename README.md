@@ -4,7 +4,7 @@ Repositorio que intenta **acumular** una lista de temas y recurzos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
 nuevo, que de cierta manera no la verás en la Universidad
 
-> Puede tener ciertos ó muchos **horrores** de ortografía, porfis ayudame
+> Puede tener ciertos o muchos **horrores** de ortografía, porfis ayúdame
 > corrigiendo eso :3
 
 ### Updates
@@ -31,8 +31,8 @@ puedes fortalecer la menera en que codificas :3
 
 ### [Code Fights](https://codefights.com)
 
-> Preaparate para entrevistas con grandes compañias como google, facebook, entre
-> otras, resolviendo acertijos fuertes y compitiendo
+> Preaparate para entrevistas con grandes compañías como Google, Facebook, entre
+> otras, resolviendo acertijos fuertes y compitiendo.
 
 ### [HackerRank](https://www.hackerrank.com/)
 
