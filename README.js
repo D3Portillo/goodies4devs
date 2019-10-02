@@ -69,7 +69,7 @@ ${guide.join("\n")}
 
 ${_goodies}
 
-## Gracias ! 
+# Gracias ! 
 
 <table>
   <tbody>
@@ -93,4 +93,5 @@ ${_goodies}
 
 # Contribute
 > [./CONTRIBUTING.md](./CONTRIBUTING.md)
+> Cualquier PR es bienvenido ! 
 `.trim("")
