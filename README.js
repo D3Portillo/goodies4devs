@@ -90,4 +90,7 @@ ${_goodies}
     </tr>
   </tbody>
 </table>
+
+# Contribute
+> [./CONTRIBUTING.md](./CONTRIBUTING.md)
 `.trim("")
