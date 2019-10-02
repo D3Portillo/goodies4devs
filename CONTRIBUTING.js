@@ -35,4 +35,5 @@ ${Object.keys(goodieTypes)
   .join("\n")}
 
 > Lista de tipos en [./goodieTypes.js](./goodieTypes.js)
+> Cualquier PR es bienvenido ! :)
 `.trim("")
