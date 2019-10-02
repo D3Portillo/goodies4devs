@@ -16,3 +16,5 @@ jobs:
         run: |
           npm install
           node build
+      - uses: srt32/git-actions@v0.0.3
+      - args: git status
