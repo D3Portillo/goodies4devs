@@ -1,5 +1,5 @@
 name: Updating readme file
-on: [pull]
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
