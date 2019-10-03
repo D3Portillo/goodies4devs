@@ -11,9 +11,11 @@ const wordwrap = s =>
     new RegExp(`(?![^\\n]{1,${colSize}}$)([^\\n]{1,${colSize}})\\s`, "g"),
     "$1\n"
   )
-const ghUrl = url => url.replace(/ +/g, "-")
-                        .replace(/[^A-Z0-9-]/gi,"")
-                        .toLowerCase()
+const ghUrl = url =>
+  url
+    .replace(/ +/g, "-")
+    .replace(/[^A-Z0-9-]/gi, "")
+    .toLowerCase()
 const types = {}
 
 Object.keys(goodieTypes).forEach(type => {
@@ -27,9 +29,9 @@ Object.keys(goodies).forEach(title => {
     type = "none"
   } = goodies[title]
   const prevArray = contributors[contributor]
-  contributors[contributor] = prevArray ?
-    [...prevArray, ghUrl(title)] :
-    [ghUrl(title)]
+  contributors[contributor] = prevArray
+    ? [...prevArray, ghUrl(title)]
+    : [ghUrl(title)]
   types[type][title] = `### [${title}](${website}) \n> ${wordwrap(description)}`
 })
 const _goodies = Object.keys(types)
@@ -39,11 +41,32 @@ const _goodies = Object.keys(types)
     return (
       `# ${_type} \n` +
       Object.keys(types[k])
-      .map(tool => types[k][tool])
-      .join("\n")
+        .map(tool => types[k][tool])
+        .join("\n")
     )
   })
   .join("\n\n")
+
+const _contributors = []
+const _keys = Object.keys(contributors)
+for (i = 0; i < _keys.length; i += 2) {
+  _contributors.push(
+    `<tr>
+    ${[..._keys]
+      .splice(i, 2)
+      .map(contributor => {
+        const mine = contributors[contributor]
+        contributor = contributor[0].replace("@", "") + contributor.substr(1)
+        const url = `https://github.com/${contributor}`
+        return `<td><table><tbody><tr><td>
+        <a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
+        </td><td>${mine.length} goodies agregados</td></tr>
+        </tbody></table></td>`
+      })
+      .join("")}
+    </tr>`
+  )
+}
 module.exports = `
 # Self taught devs
 
@@ -75,21 +98,7 @@ ${_goodies}
 
 <table>
   <tbody>
-    <tr>
-      ${Object.keys(contributors).map(contributor => {
-        const mine = contributors[contributor]
-        contributor = contributor[0].replace("@", "") + contributor.substr(1)
-        const url = `https://github.com/${contributor}`
-        return `<td>
-          <a href="${url}" title="@${contributor}">
-            <img src="${url}.png?size=40"/>
-          </a>
-        </td>
-        <td>
-          ${mine.length} goodies agregados
-        </td>`
-      })}
-    </tr>
+      ${_contributors.join("")}
   </tbody>
 </table>
 
