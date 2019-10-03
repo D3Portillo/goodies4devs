@@ -5,3 +5,33 @@ website= "https://www.heroku.com"
 ["Codepen"]
 description = "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets."
 website = "https://codepen.io/"
+
+["JSFiddle"]
+description = "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets."
+website = "https://jsfiddle.net/"
+contributor = "@emrivero"
+type = "tool"
+
+["CheckIO"]
+description = "Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and JavaScript."
+website = "https://checkio.org/"
+contributor = "@emrivero"
+type = "tool"
+
+["CodeWars"]
+description = "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential."
+website = "https://www.codewars.com/"
+contributor = "@emrivero"
+type = "tool"
+
+["W3Schools"]
+description = "W3Schools is an educational website for learning web technologies online"
+website = "https://www.w3schools.com/"
+contributor = "@emrivero"
+type = "tutorial"
+
+["freeCodeCamp"]
+description = "freeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone"
+website = "https://www.freecodecamp.org/"
+contributor = "@emrivero"
+type = "codecamp"
