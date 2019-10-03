@@ -45,3 +45,10 @@ website = "https://app.codesignal.com/"
 description = "Scrimba lets you play around with the instructor's code directly inside the screencast. As a result, you'll learn faster and have more fun."
 website = "https://scrimba.com/"
 type = "tutorial"
+
+
+["HTTP Status Codes definitions"]
+description = "This page is created from HTTP status code information found at ietf.org and Wikipedia."
+website = "https://www.restapitutorial.com/httpstatuscodes.html"
+contributor = "@glopez97"
+type = "reading"
