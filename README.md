@@ -48,7 +48,9 @@ kata in the dojo and reach your highest potential.
 
 
 # Libros / lectura 
-
+### [HTTP Status Codes definitions](https://www.restapitutorial.com/httpstatuscodes.html) 
+> This page is created from HTTP status code information found at ietf.org and
+Wikipedia.
 
 # Codecamps 
 ### [freeCodeCamp](https://www.freecodecamp.org/) 
@@ -104,6 +106,13 @@ assessment platform and advanced coding tests.
         </td>
         <td>
           5 goodies agregados
+        </td>,<td>
+          <a href="https://github.com/glopez97" title="@glopez97">
+            <img src="https://github.com/glopez97.png?size=40"/>
+          </a>
+        </td>
+        <td>
+          1 goodies agregados
         </td>
     </tr>
   </tbody>
