@@ -35,3 +35,8 @@ description = "freeCodeCamp is a non-profit organization that consists of an int
 website = "https://www.freecodecamp.org/"
 contributor = "@emrivero"
 type = "codecamp"
+
+
+["Codesignal/Codefights"]
+description = "Learn how you can go beyond resumes in technical hiring with a state-of-the-art assessment platform and advanced coding tests."
+website = "https://app.codesignal.com/"
