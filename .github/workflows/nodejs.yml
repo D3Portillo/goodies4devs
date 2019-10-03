@@ -1,5 +1,7 @@
 name: Updating readme file
-on: [push]
+on:
+  pull_request:
+    types: [closed]
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,6 +21,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v2.1.0
         with:
           commit_message: Updates README & CONTRIBUTING
-          branch: ${{ github.head_ref }}
+          branch: master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
