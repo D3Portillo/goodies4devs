@@ -1,8 +1,11 @@
 module.exports = {
   tool: "Herramientas",
-  yt: "Youtuber",
+  yt: "Youtubers",
   reading: "Libros / lectura",
-  codecamp: "Codecamp",
-  tutorial: "Tutorial",
-  none: "Sin especificar"
+  codecamp: "Codecamps",
+  hack: "Hackathon / Codejam",
+  tutorial: "Tutoriales",
+  course: "Curso",
+  none: "Sin especificar",
+  twitter: "Perfiles de Twitter"
 }
