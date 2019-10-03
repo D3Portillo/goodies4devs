@@ -27,11 +27,14 @@ type = "tool"
 | Clave | Valor |
 |-------|-------|
 | tool | Herramientas |
-| yt | Youtuber |
+| yt | Youtubers |
 | reading | Libros / lectura |
-| codecamp | Codecamp |
-| tutorial | Tutorial |
+| codecamp | Codecamps |
+| hack | Hackathon / Codejam |
+| tutorial | Tutoriales |
+| course | Curso |
 | none | Sin especificar |
+| twitter | Perfiles de Twitter |
 
 > Lista de tipos en [./goodieTypes.js](./goodieTypes.js)
 > Cualquier PR es bienvenido ! :)

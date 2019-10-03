@@ -23,11 +23,14 @@ puedes fortalecer la menera en que codificas :3
 # Guía rapída
 
 - [Herramientas](#herramientas)
-- [Youtuber](#youtuber)
+- [Youtubers](#youtubers)
 - [Libros / lectura](#libros--lectura)
-- [Codecamp](#codecamp)
-- [Tutorial](#tutorial)
+- [Codecamps](#codecamps)
+- [Hackathon / Codejam](#hackathon--codejam)
+- [Tutoriales](#tutoriales)
+- [Curso](#curso)
 - [Sin especificar](#sin-especificar)
+- [Perfiles de Twitter](#perfiles-de-twitter)
 
 # Herramientas 
 ### [JSFiddle](https://jsfiddle.net/) 
@@ -41,22 +44,31 @@ JavaScript.
 > Codewars is where developers achieve code mastery through challenge. Train on
 kata in the dojo and reach your highest potential.
 
-# Youtuber 
+# Youtubers 
 
 
 # Libros / lectura 
 
 
-# Codecamp 
+# Codecamps 
 ### [freeCodeCamp](https://www.freecodecamp.org/) 
 > freeCodeCamp is a non-profit organization that consists of an interactive
 learning web platform, an online community forum, chat rooms, online
 publications and local organizations that intend to make learning web
 development accessible to anyone
 
-# Tutorial 
+# Hackathon / Codejam 
+
+
+# Tutoriales 
 ### [W3Schools](https://www.w3schools.com/) 
 > W3Schools is an educational website for learning web technologies online
+### [Scrimba](https://scrimba.com/) 
+> Scrimba lets you play around with the instructor's code directly inside the
+screencast. As a result, you'll learn faster and have more fun.
+
+# Curso 
+
 
 # Sin especificar 
 ### [Heroku](https://www.heroku.com) 
@@ -70,6 +82,9 @@ development using HTML, CSS and JavaScript code snippets.
 > Learn how you can go beyond resumes in technical hiring with a state-of-the-art
 assessment platform and advanced coding tests.
 
+# Perfiles de Twitter 
+
+
 # Gracias ! 
 
 <table>
@@ -81,7 +96,7 @@ assessment platform and advanced coding tests.
           </a>
         </td>
         <td>
-          3 goodies agregados
+          4 goodies agregados
         </td>,<td>
           <a href="https://github.com/emrivero" title="@emrivero">
             <img src="https://github.com/emrivero.png?size=40"/>
