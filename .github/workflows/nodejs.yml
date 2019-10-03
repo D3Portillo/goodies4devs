@@ -20,6 +20,9 @@ jobs:
         run: |
           npm install
           node build
+      - uses: hmarr/auto-approve-action@v2.0.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v2.1.0
         with:
           commit_message: Updates README & CONTRIBUTING
