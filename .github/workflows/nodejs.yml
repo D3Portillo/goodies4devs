@@ -25,4 +25,4 @@ jobs:
           commit_message: Updates README & CONTRIBUTING
           branch: master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
