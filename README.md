@@ -24,7 +24,7 @@ puedes fortalecer la menera en que codificas :3
 
 - [Herramientas](#herramientas)
 - [Youtuber](#youtuber)
-- [Libros / lectura](#libros-/-lectura)
+- [Libros / lectura](#libros--lectura)
 - [Codecamp](#codecamp)
 - [Tutorial](#tutorial)
 - [Sin especificar](#sin-especificar)
@@ -66,6 +66,9 @@ infrastructure headaches.
 ### [Codepen](https://codepen.io/) 
 > An online code editor, learning environment, and community for front-end web
 development using HTML, CSS and JavaScript code snippets.
+### [Codesignal/Codefights](https://app.codesignal.com/) 
+> Learn how you can go beyond resumes in technical hiring with a state-of-the-art
+assessment platform and advanced coding tests.
 
 # Gracias ! 
 
@@ -78,7 +81,7 @@ development using HTML, CSS and JavaScript code snippets.
           </a>
         </td>
         <td>
-          2 goodies agregados
+          3 goodies agregados
         </td>,<td>
           <a href="https://github.com/emrivero" title="@emrivero">
             <img src="https://github.com/emrivero.png?size=40"/>

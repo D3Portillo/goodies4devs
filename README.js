@@ -11,7 +11,9 @@ const wordwrap = s =>
     new RegExp(`(?![^\\n]{1,${colSize}}$)([^\\n]{1,${colSize}})\\s`, "g"),
     "$1\n"
   )
-const ghUrl = url => url.replace(/ +/g, "-").toLowerCase()
+const ghUrl = url => url.replace(/ +/g, "-")
+                        .replace(/[^A-Z0-9-]/gi,"")
+                        .toLowerCase()
 const types = {}
 
 Object.keys(goodieTypes).forEach(type => {
