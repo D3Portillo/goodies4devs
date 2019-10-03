@@ -16,6 +16,9 @@ jobs:
         run: |
           npm install
           node build
-      - uses: ad-m/github-push-action@master
+      - uses: stefanzweifel/git-auto-commit-action@v2.1.0
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          commit_message: Updates README & CONTRIBUTING
+          branch: ${{ github.head_ref }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
