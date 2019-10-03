@@ -98,3 +98,4 @@ public
 .dynamodb/
 
 .vscode/
+package-lock.json

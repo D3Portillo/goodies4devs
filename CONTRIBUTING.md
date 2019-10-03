@@ -34,3 +34,4 @@ type = "tool"
 | none | Sin especificar |
 
 > Lista de tipos en [./goodieTypes.js](./goodieTypes.js)
+> Cualquier PR es bienvenido ! :)
