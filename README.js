@@ -25,9 +25,9 @@ Object.keys(goodies).forEach(title => {
     type = "none"
   } = goodies[title]
   const prevArray = contributors[contributor]
-  contributors[contributor] = prevArray
-    ? [...prevArray, ghUrl(title)]
-    : [ghUrl(title)]
+  contributors[contributor] = prevArray ?
+    [...prevArray, ghUrl(title)] :
+    [ghUrl(title)]
   types[type][title] = `### [${title}](${website}) \n> ${wordwrap(description)}`
 })
 const _goodies = Object.keys(types)
@@ -37,15 +37,15 @@ const _goodies = Object.keys(types)
     return (
       `# ${_type} \n` +
       Object.keys(types[k])
-        .map(tool => types[k][tool])
-        .join("\n")
+      .map(tool => types[k][tool])
+      .join("\n")
     )
   })
   .join("\n\n")
 module.exports = `
 # Self taught devs
 
-Repositorio que intenta **acumular** una lista de temas y recurzos para
+Repositorio que intenta **acumular** una lista de temas y recursos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
 nuevo, que de cierta manera no la verás en la Universidad
 
