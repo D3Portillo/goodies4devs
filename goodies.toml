@@ -64,3 +64,9 @@ description = "Slack but opensource"
 website = "https://mattermost.com/"
 contributor = "@glopez97"
 type = "tool"
+
+["Typora"]
+description = "Minimalistic markdown editor"
+website = "https://typora.io/"
+contributor = "@glopez97"
+type = "tool"
