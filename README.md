@@ -51,6 +51,8 @@ kata in the dojo and reach your highest potential.
 ### [HTTP Status Codes definitions](https://www.restapitutorial.com/httpstatuscodes.html) 
 > This page is created from HTTP status code information found at ietf.org and
 Wikipedia.
+### [BOTO3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) 
+> Boto docs in a glimpse
 
 # Codecamps 
 ### [freeCodeCamp](https://www.freecodecamp.org/) 
@@ -112,7 +114,7 @@ assessment platform and advanced coding tests.
           </a>
         </td>
         <td>
-          1 goodies agregados
+          2 goodies agregados
         </td>
     </tr>
   </tbody>
