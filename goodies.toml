@@ -52,3 +52,9 @@ description = "This page is created from HTTP status code information found at i
 website = "https://www.restapitutorial.com/httpstatuscodes.html"
 contributor = "@glopez97"
 type = "reading"
+
+["BOTO3 Documentation"]
+description = "Boto docs in a glimpse"
+website = "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"
+contributor = "@glopez97"
+type = "reading"
