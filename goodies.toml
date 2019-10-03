@@ -40,3 +40,8 @@ type = "codecamp"
 ["Codesignal/Codefights"]
 description = "Learn how you can go beyond resumes in technical hiring with a state-of-the-art assessment platform and advanced coding tests."
 website = "https://app.codesignal.com/"
+
+["Scrimba"]
+description = "Scrimba lets you play around with the instructor's code directly inside the screencast. As a result, you'll learn faster and have more fun."
+website = "https://scrimba.com/"
+type = "tutorial"
