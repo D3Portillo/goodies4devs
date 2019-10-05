@@ -70,3 +70,9 @@ description = "Slack is where work flows. It's where the people you need, the in
 website = "https://slack.com/"
 type = "tool"
 money = "freemium"
+
+["Repl.it"]
+description = "An online IDE for learn, build, collaborate, and host all in one place."
+website = "https://repl.it/"
+contributor = "@SorielV"
+type = "tool"
