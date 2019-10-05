@@ -5,7 +5,8 @@ module.exports = {
   codecamp: "Codecamps",
   hack: "Hackathon / Codejam",
   tutorial: "Tutoriales",
-  course: "Curso",
+  course: "Cursos",
   none: "Sin especificar",
-  twitter: "Perfiles de Twitter"
+  twitter: "Perfiles de Twitter",
+  cheatshee: "Cheat Sheets"
 }
