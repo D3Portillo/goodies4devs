@@ -65,6 +65,11 @@ website = "https://mattermost.com/"
 contributor = "@glopez97"
 type = "tool"
 
+["Typora"]
+description = "Minimalistic markdown editor"
+website = "https://typora.io/"
+contributor = "@glopez97"
+
 ["Slack"]
 description = "Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done."
 website = "https://slack.com/"
