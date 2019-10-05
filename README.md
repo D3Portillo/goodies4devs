@@ -52,8 +52,12 @@ kata in the dojo and reach your highest potential.
 > Slack but opensource
 
 ### [Slack](https://slack.com/) 
-> Slack but opensource
-<br/>**El goodie es: freemium**
+> Slack is where work flows. It's where the people you need, the information you
+share, and the tools you use come together to get things done.
+<br/>**El goodie es: freemium  :money_with_wings::free:**
+
+### [Repl.it](https://repl.it/) 
+> An online IDE for learn, build, collaborate, and host all in one place.
 
 
 # Youtubers 
@@ -122,7 +126,9 @@ assessment platform and advanced coding tests.
         <a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
         </td><td>5 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
-        </td><td>3 goodies agregados</td></tr>
+        </td><td>3 goodies agregados</td></tr><tr><td>
+        <a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
+        </td><td>1 goodies agregados</td></tr>
   </tbody>
 </table>
 

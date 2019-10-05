@@ -8,9 +8,9 @@ const contributors = {}
 let guide = []
 const getIfPaid = money => {
   const model = {
-    paid: "de paga",
-    free: "gratuito",
-    freemium: "freemium"
+    paid: "de paga  :money_with_wings:",
+    free: "gratuito :free:",
+    freemium: "freemium  :money_with_wings::free:"
   }
   money = money || "none"
   if (money == "none") return ""
