@@ -10,6 +10,7 @@ description = "Una descripción genial :heart_eyes:"
 contributor = "@tuperfildeGH"
 website = "https://elurldelgoodie"
 type = "tool"
+money = "freemium"
 \`\`\`
 
 # Formato
@@ -36,12 +37,12 @@ ${Object.keys(goodieTypes)
 
 # Tipos de valores de paga
 
-| Clave | Significado |
-|-------|-------|
-| freemium | Que dicho goodie es freemium |
-| free     | Que dicho goodie es gratuito |
-| paid     | Que dicho goodie es de paga  |
-| none     | No se muestra si es de paga  |
+| Clave    | Significado                                      |
+|--------- |------------------------------------------------- |
+| freemium | Que dicho goodie es freemium                     |
+| free     | Que dicho goodie es gratuito                     |
+| paid     | Que dicho goodie es de paga                      |
+| none     | No se muestra si es de paga, freemium o gratuito |
 
 > Lista de tipos en [./goodieTypes.js](./goodieTypes.js)
 > Cualquier PR es bienvenido ! :)
