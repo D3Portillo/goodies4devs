@@ -64,3 +64,9 @@ description = "Slack but opensource"
 website = "https://mattermost.com/"
 contributor = "@glopez97"
 type = "tool"
+
+["Slack"]
+description = "Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done."
+website = "https://slack.com/"
+type = "tool"
+money = "freemium"

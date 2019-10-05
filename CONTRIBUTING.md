@@ -14,15 +14,15 @@ type = "tool"
 
 `["El nombre del goodie"]`
 
-| campo       | tipo de dato                | default      |
-| ----------- | --------------------------- | ------------ |
-| description | String                      | ?requerido   |
-| contributor | String                      | "d3portillo" |
-| website     | String                      | "#"          |
-| type        | [String](#tipos-de-goodies) | "none"       |
+| Clave       | Valor                                     | Default     |
+| ----------- | ----------------------------------------- | ----------- |
+| description | String                                    | ?requerido  |
+| contributor | String                                    | @d3portillo |
+| website     | String                                    | #           |
+| type        | [Una de estas](#tipos-de-goodies)         | none        |
+| money       | [Una de estas](#tipos-de-valores-de-paga) | none        |
 
 # Tipos de goodies
-
 
 | Clave | Valor |
 |-------|-------|
@@ -32,9 +32,19 @@ type = "tool"
 | codecamp | Codecamps |
 | hack | Hackathon / Codejam |
 | tutorial | Tutoriales |
-| course | Curso |
+| course | Cursos |
 | none | Sin especificar |
 | twitter | Perfiles de Twitter |
+| cheatshee | Cheat Sheets |
+
+# Tipos de valores de paga
+
+| Clave | Significado |
+|-------|-------|
+| freemium | Que dicho goodie es freemium |
+| free     | Que dicho goodie es gratuito |
+| paid     | Que dicho goodie es de paga  |
+| none     | No se muestra si es de paga  |
 
 > Lista de tipos en [./goodieTypes.js](./goodieTypes.js)
 > Cualquier PR es bienvenido ! :)

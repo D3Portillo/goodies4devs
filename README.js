@@ -6,6 +6,16 @@ const goodieTypes = require("./goodieTypes")
 const colSize = 80
 const contributors = {}
 let guide = []
+const getIfPaid = money => {
+  const model = {
+    paid: "de paga",
+    free: "gratuito",
+    freemium: "freemium"
+  }
+  money = money || "none"
+  if (money == "none") return ""
+  return `<br/>**El goodie es: ${model[money]}**\n`
+}
 const wordwrap = s =>
   s.replace(
     new RegExp(`(?![^\\n]{1,${colSize}}$)([^\\n]{1,${colSize}})\\s`, "g"),
@@ -26,13 +36,16 @@ Object.keys(goodies).forEach(title => {
     description,
     website = "#",
     contributor = "@d3portillo",
-    type = "none"
+    type = "none",
+    money = "none"
   } = goodies[title]
   const prevArray = contributors[contributor]
   contributors[contributor] = prevArray
     ? [...prevArray, ghUrl(title)]
     : [ghUrl(title)]
-  types[type][title] = `### [${title}](${website}) \n> ${wordwrap(description)}`
+  types[type][title] = `### [${title}](${website}) \n> ${wordwrap(
+    description
+  )}\n${getIfPaid(money)}`
 })
 const _goodies = Object.keys(types)
   .map(k => {
@@ -46,8 +59,6 @@ const _goodies = Object.keys(types)
     )
   })
   .join("\n\n")
-
-const _keys = Object.keys(contributors)
 
 const _contributors = Object.keys(contributors)
   .map(contributor => {
