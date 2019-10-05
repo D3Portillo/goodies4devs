@@ -93,20 +93,13 @@ assessment platform and advanced coding tests.
 
 <table>
   <tbody>
-      <tr>
-    <td><table><tbody><tr><td>
+      <tr><td>
         <a href="https://github.com/d3portillo" title="@d3portillo"><img src="https://github.com/d3portillo.png?size=40"/></a>
-        </td><td>4 goodies agregados</td></tr>
-        </tbody></table></td><td><table><tbody><tr><td>
+        </td><td>4 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
-        </td><td>5 goodies agregados</td></tr>
-        </tbody></table></td>
-    </tr><tr>
-    <td><table><tbody><tr><td>
+        </td><td>5 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
         </td><td>2 goodies agregados</td></tr>
-        </tbody></table></td>
-    </tr>
   </tbody>
 </table>
 

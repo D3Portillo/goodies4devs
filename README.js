@@ -47,26 +47,19 @@ const _goodies = Object.keys(types)
   })
   .join("\n\n")
 
-const _contributors = []
 const _keys = Object.keys(contributors)
-for (i = 0; i < _keys.length; i += 2) {
-  _contributors.push(
-    `<tr>
-    ${[..._keys]
-      .splice(i, 2)
-      .map(contributor => {
-        const mine = contributors[contributor]
-        contributor = contributor[0].replace("@", "") + contributor.substr(1)
-        const url = `https://github.com/${contributor}`
-        return `<td><table><tbody><tr><td>
+
+const _contributors = Object.keys(contributors)
+  .map(contributor => {
+    const mine = contributors[contributor]
+    contributor = contributor[0].replace("@", "") + contributor.substr(1)
+    const url = `https://github.com/${contributor}`
+    return `<tr><td>
         <a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
-        </td><td>${mine.length} goodies agregados</td></tr>
-        </tbody></table></td>`
-      })
-      .join("")}
-    </tr>`
-  )
-}
+        </td><td>${mine.length} goodies agregados</td></tr>`
+  })
+  .join("")
+
 module.exports = `
 # Self taught devs
 
@@ -98,7 +91,7 @@ ${_goodies}
 
 <table>
   <tbody>
-      ${_contributors.join("")}
+      ${_contributors}
   </tbody>
 </table>
 
