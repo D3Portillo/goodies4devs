@@ -116,19 +116,19 @@ assessment platform and advanced coding tests.
 # Cheat Sheets 
 
 
-# Gracias ! 
+# Gracias a los contributors! 
 
 <table>
   <tbody>
       <tr><td>
         <a href="https://github.com/d3portillo" title="@d3portillo"><img src="https://github.com/d3portillo.png?size=40"/></a>
-        </td><td>5 goodies agregados</td></tr><tr><td>
+        </td><td><b>@d3portillo</b><br/>5 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
-        </td><td>5 goodies agregados</td></tr><tr><td>
+        </td><td><b>@emrivero</b><br/>5 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
-        </td><td>3 goodies agregados</td></tr><tr><td>
+        </td><td><b>@glopez97</b><br/>3 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
-        </td><td>1 goodies agregados</td></tr>
+        </td><td><b>@SorielV</b><br/>1 goodies agregados</td></tr>
   </tbody>
 </table>
 

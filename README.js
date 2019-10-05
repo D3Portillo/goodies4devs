@@ -67,7 +67,7 @@ const _contributors = Object.keys(contributors)
     const url = `https://github.com/${contributor}`
     return `<tr><td>
         <a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
-        </td><td>${mine.length} goodies agregados</td></tr>`
+        </td><td><b>@${contributor}</b><br/>${mine.length} goodies agregados</td></tr>`
   })
   .join("")
 
@@ -98,7 +98,7 @@ ${guide.join("\n")}
 
 ${_goodies}
 
-# Gracias ! 
+# Gracias a los contributors! 
 
 <table>
   <tbody>
