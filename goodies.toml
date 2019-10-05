@@ -58,3 +58,9 @@ description = "Boto docs in a glimpse"
 website = "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"
 contributor = "@glopez97"
 type = "reading"
+
+["Mattermost"]
+description = "Slack but opensource"
+website = "https://mattermost.com/"
+contributor = "@glopez97"
+type = "tool"
