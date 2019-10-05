@@ -6,6 +6,16 @@ const goodieTypes = require("./goodieTypes")
 const colSize = 80
 const contributors = {}
 let guide = []
+const getIfPaid = money => {
+  const model = {
+    paid: "de paga  :money_with_wings:",
+    free: "gratuito :free:",
+    freemium: "freemium  :money_with_wings::free:"
+  }
+  money = money || "none"
+  if (money == "none") return ""
+  return `<br/>**El goodie es: ${model[money]}**\n`
+}
 const wordwrap = s =>
   s.replace(
     new RegExp(`(?![^\\n]{1,${colSize}}$)([^\\n]{1,${colSize}})\\s`, "g"),
@@ -26,13 +36,16 @@ Object.keys(goodies).forEach(title => {
     description,
     website = "#",
     contributor = "@d3portillo",
-    type = "none"
+    type = "none",
+    money = "none"
   } = goodies[title]
   const prevArray = contributors[contributor]
   contributors[contributor] = prevArray
     ? [...prevArray, ghUrl(title)]
     : [ghUrl(title)]
-  types[type][title] = `### [${title}](${website}) \n> ${wordwrap(description)}`
+  types[type][title] = `### [${title}](${website}) \n> ${wordwrap(
+    description
+  )}\n${getIfPaid(money)}`
 })
 const _goodies = Object.keys(types)
   .map(k => {
@@ -47,26 +60,17 @@ const _goodies = Object.keys(types)
   })
   .join("\n\n")
 
-const _contributors = []
-const _keys = Object.keys(contributors)
-for (i = 0; i < _keys.length; i += 2) {
-  _contributors.push(
-    `<tr>
-    ${[..._keys]
-      .splice(i, 2)
-      .map(contributor => {
-        const mine = contributors[contributor]
-        contributor = contributor[0].replace("@", "") + contributor.substr(1)
-        const url = `https://github.com/${contributor}`
-        return `<td><table><tbody><tr><td>
+const _contributors = Object.keys(contributors)
+  .map(contributor => {
+    const mine = contributors[contributor]
+    contributor = contributor[0].replace("@", "") + contributor.substr(1)
+    const url = `https://github.com/${contributor}`
+    return `<tr><td>
         <a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
-        </td><td>${mine.length} goodies agregados</td></tr>
-        </tbody></table></td>`
-      })
-      .join("")}
-    </tr>`
-  )
-}
+        </td><td><b>@${contributor}</b><br/>${mine.length} goodies agregados</td></tr>`
+  })
+  .join("")
+
 module.exports = `
 # Self taught devs
 
@@ -94,11 +98,11 @@ ${guide.join("\n")}
 
 ${_goodies}
 
-# Gracias ! 
+# Gracias a los contributors! 
 
 <table>
   <tbody>
-      ${_contributors.join("")}
+      ${_contributors}
   </tbody>
 </table>
 
