@@ -81,3 +81,15 @@ description = "An online IDE for learn, build, collaborate, and host all in one 
 website = "https://repl.it/"
 contributor = "@SorielV"
 type = "tool"
+
+["Píldoras informáticas"]
+description = "Tutoriales de ofimática, programación, diseño gráfico y web."
+contributor = "@ivigilm"
+website = "https://www.youtube.com/user/pildorasinformaticas"
+type = "yt"
+
+["Código facilito"]
+description = "Cursos online de desarrollo web frontend, backend, desarrollo móvil para Android y iOS y mucho más."
+contributor = "@ivigilm"
+website = "https://www.youtube.com/user/codigofacilito"
+type = "yt"
