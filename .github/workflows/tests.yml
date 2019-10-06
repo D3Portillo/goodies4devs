@@ -20,4 +20,4 @@ jobs:
       - name: Testing goodies.toml
         run: |
           npm install
-          node test
+          npm run test
