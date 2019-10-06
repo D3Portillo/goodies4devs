@@ -20,12 +20,7 @@ jobs:
         run: |
           npm install
           node build
-      - uses: hmarr/auto-approve-action@v2.0.0
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v2.1.0
-        with:
-          commit_message: Updates README & CONTRIBUTING
-          branch: master
+     - name: Adding new goodies...
+        uses: "pascalgn/automerge-action@43fd7e11ee532218966343a262f10771b5eff978"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
