@@ -61,6 +61,12 @@ share, and the tools you use come together to get things done.
 
 
 # Youtubers 
+### [Píldoras informáticas](https://www.youtube.com/user/pildorasinformaticas) 
+> Tutoriales de ofimática, programación, diseño gráfico y web.
+
+### [Código facilito](https://www.youtube.com/user/codigofacilito) 
+> Cursos online de desarrollo web frontend, backend, desarrollo móvil para Android
+y iOS y mucho más.
 
 
 # Libros / lectura 
@@ -109,6 +115,9 @@ development using HTML, CSS and JavaScript code snippets.
 > Learn how you can go beyond resumes in technical hiring with a state-of-the-art
 assessment platform and advanced coding tests.
 
+### [Typora](https://typora.io/) 
+> Minimalistic markdown editor
+
 
 # Perfiles de Twitter 
 
@@ -126,9 +135,11 @@ assessment platform and advanced coding tests.
         <a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
         </td><td><b>@emrivero</b><br/>5 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
-        </td><td><b>@glopez97</b><br/>3 goodies agregados</td></tr><tr><td>
+        </td><td><b>@glopez97</b><br/>4 goodies agregados</td></tr><tr><td>
         <a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
-        </td><td><b>@SorielV</b><br/>1 goodies agregados</td></tr>
+        </td><td><b>@SorielV</b><br/>1 goodies agregados</td></tr><tr><td>
+        <a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
+        </td><td><b>@ivigilm</b><br/>2 goodies agregados</td></tr>
   </tbody>
 </table>
 

@@ -45,5 +45,6 @@ ${Object.keys(goodieTypes)
 | none     | No se muestra si es de paga, freemium o gratuito |
 
 > Lista de tipos en [./goodieTypes.js](./goodieTypes.js)
-> Cualquier PR es bienvenido ! :)
+> Cualquier PR es bienvenido ! :), 
+<br/>PD: Ayuda integrando las GH actions porfa :raised_hands: [./.github/workflows](./.github/workflows/nodejs.yml), 
 `.trim("")
