@@ -20,7 +20,7 @@ jobs:
         run: |
           npm install
           node build
-     - name: Adding new goodies...
+      - name: Adding new goodies...
         uses: "pascalgn/automerge-action@43fd7e11ee532218966343a262f10771b5eff978"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
