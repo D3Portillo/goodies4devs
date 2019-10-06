@@ -8,5 +8,5 @@ module.exports = {
   course: "Cursos",
   none: "Sin especificar",
   twitter: "Perfiles de Twitter",
-  cheatshee: "Cheat Sheets"
+  cheatsheet: "Cheat Sheets"
 }
