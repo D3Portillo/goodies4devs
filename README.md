@@ -144,6 +144,6 @@ assessment platform and advanced coding tests.
 </table>
 
 # Contribute
-- [./CONTRIBUTING.md](./CONTRIBUTING.md)
+- [./src/CONTRIBUTING.md](./src/CONTRIBUTING.md)
 
 > Cualquier PR es bienvenido !

@@ -47,6 +47,6 @@ money = "freemium"
 | paid     | Que dicho goodie es de paga                      |
 | none     | No se muestra si es de paga, freemium o gratuito |
 
-> Lista de tipos en [./goodieTypes.js](./goodieTypes.js)
+> Lista de tipos en [./src/goodieTypes.js](./src/goodieTypes.js)
 > Cualquier PR es bienvenido ! :), 
 <br/>PD: Ayuda integrando las GH actions porfa :raised_hands: [./.github/workflows](./.github/workflows/nodejs.yml),
