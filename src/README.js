@@ -107,7 +107,7 @@ ${_goodies}
 </table>
 
 # Contribute
-- [./src/CONTRIBUTING.md](./src/CONTRIBUTING.md)
+- [./CONTRIBUTING.md](./CONTRIBUTING.md)
 
 > Cualquier PR es bienvenido ! 
 `.trim("")
