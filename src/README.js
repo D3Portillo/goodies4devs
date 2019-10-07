@@ -65,15 +65,8 @@ const _contributors = Object.keys(contributors)
     const mine = contributors[contributor]
     contributor = contributor[0].replace("@", "") + contributor.substr(1)
     const url = `https://github.com/${contributor}`
-    return `
-        <tr>
-          <td>
-            <a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
-          </td>
-          <td>
-            <b>@${contributor}</b><br/>${mine.length} goodies agregados
-          </td>
-        </tr>`
+    return `<tr><td><a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
+    </td><td><b>@${contributor}</b><br/>${mine.length} goodies agregados</td></tr>`
   })
   .join("")
 
@@ -107,9 +100,7 @@ ${_goodies}
 # Gracias a los contributors! 
 
 <table>
-  <tbody>
-      ${_contributors}
-  </tbody>
+  <tbody>${_contributors}</tbody>
 </table>
 
 # Contribute

@@ -2,7 +2,7 @@
 
 Repositorio que intenta **acumular** una lista de temas y recursos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
-nuevo, que de cierta manera no la verás en la Universidad
+nuevo, que de cierta manera no la verás en la Universidad.
 
 > Puede tener ciertos ó muchos **horrores** de ortografía, porfis ayudame , 
 corrigiendo eso
@@ -18,10 +18,10 @@ y otros archivos al hacer un merge a la master
 
 # The List
 
-A continuación podras ver una lista de recursos y herramientas, con las que
-puedes fortalecer la menera en que codificas :3
+A continuación, podras ver una lista de recursos y herramientas, las cuales
+te permitirán fortalecer la manera en que codificas :3
 
-# Guía rapída
+# Guía rápida!
 
 - [Herramientas](#herramientas)
 - [Youtubers](#youtubers)
@@ -47,6 +47,11 @@ JavaScript.
 ### [CodeWars](https://www.codewars.com/) 
 > Codewars is where developers achieve code mastery through challenge. Train on
 kata in the dojo and reach your highest potential.
+
+### [HackerRank](https://www.hackerrank.com) 
+> HackerRank is a technology hiring platform that is the standard for assessing
+developer skills for over 1,500+ companies around the world.
+<br/>**El goodie es: freemium  :money_with_wings::free:**
 
 ### [Mattermost](https://mattermost.com/) 
 > Slack but opensource
@@ -90,6 +95,10 @@ development accessible to anyone
 
 
 # Tutoriales 
+### [OWASP](https://www.owasp.org/index.php/Main_Page) 
+> The Open Web Application Security Project (OWASP) is a worldwide not-for-profit
+charitable organization focused on improving the security of software.
+
 ### [W3Schools](https://www.w3schools.com/) 
 > W3Schools is an educational website for learning web technologies online
 
@@ -128,22 +137,16 @@ assessment platform and advanced coding tests.
 # Gracias a los contributors! 
 
 <table>
-  <tbody>
-      <tr><td>
-        <a href="https://github.com/d3portillo" title="@d3portillo"><img src="https://github.com/d3portillo.png?size=40"/></a>
-        </td><td><b>@d3portillo</b><br/>5 goodies agregados</td></tr><tr><td>
-        <a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
-        </td><td><b>@emrivero</b><br/>5 goodies agregados</td></tr><tr><td>
-        <a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
-        </td><td><b>@glopez97</b><br/>4 goodies agregados</td></tr><tr><td>
-        <a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
-        </td><td><b>@SorielV</b><br/>1 goodies agregados</td></tr><tr><td>
-        <a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
-        </td><td><b>@ivigilm</b><br/>2 goodies agregados</td></tr>
-  </tbody>
+  <tbody><tr><td><a href="https://github.com/d3portillo" title="@d3portillo"><img src="https://github.com/d3portillo.png?size=40"/></a>
+    </td><td><b>@d3portillo</b><br/>5 goodies agregados</td></tr><tr><td><a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
+    </td><td><b>@emrivero</b><br/>5 goodies agregados</td></tr><tr><td><a href="https://github.com/xDidier901" title="@xDidier901"><img src="https://github.com/xDidier901.png?size=40"/></a>
+    </td><td><b>@xDidier901</b><br/>2 goodies agregados</td></tr><tr><td><a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
+    </td><td><b>@glopez97</b><br/>4 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
+    </td><td><b>@SorielV</b><br/>1 goodies agregados</td></tr><tr><td><a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
+    </td><td><b>@ivigilm</b><br/>2 goodies agregados</td></tr></tbody>
 </table>
 
 # Contribute
-- [./src/CONTRIBUTING.md](./src/CONTRIBUTING.md)
+- [./CONTRIBUTING.md](./CONTRIBUTING.md)
 
-> Cualquier PR es bienvenido !
+> Cualquier PR es bienvenido!
