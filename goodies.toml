@@ -24,6 +24,19 @@ website = "https://www.codewars.com/"
 contributor = "@emrivero"
 type = "tool"
 
+["HackerRank"]
+description = "HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 1,500+ companies around the world."
+website = "https://www.hackerrank.com"
+contributor = "@xDidier901"
+type = "tool"
+money = "freemium"
+
+["OWASP"]
+description = "The Open Web Application Security Project (OWASP) is a worldwide not-for-profit charitable organization focused on improving the security of software."
+website = "https://www.owasp.org/index.php/Main_Page"
+contributor = "@xDidier901"
+type = "tutorial"
+
 ["W3Schools"]
 description = "W3Schools is an educational website for learning web technologies online"
 website = "https://www.w3schools.com/"
@@ -36,7 +49,6 @@ website = "https://www.freecodecamp.org/"
 contributor = "@emrivero"
 type = "codecamp"
 
-
 ["Codesignal/Codefights"]
 description = "Learn how you can go beyond resumes in technical hiring with a state-of-the-art assessment platform and advanced coding tests."
 website = "https://app.codesignal.com/"
@@ -45,7 +57,6 @@ website = "https://app.codesignal.com/"
 description = "Scrimba lets you play around with the instructor's code directly inside the screencast. As a result, you'll learn faster and have more fun."
 website = "https://scrimba.com/"
 type = "tutorial"
-
 
 ["HTTP Status Codes definitions"]
 description = "This page is created from HTTP status code information found at ietf.org and Wikipedia."
