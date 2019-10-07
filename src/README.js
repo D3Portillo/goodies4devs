@@ -65,9 +65,15 @@ const _contributors = Object.keys(contributors)
     const mine = contributors[contributor]
     contributor = contributor[0].replace("@", "") + contributor.substr(1)
     const url = `https://github.com/${contributor}`
-    return `<tr><td>
-        <a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
-        </td><td><b>@${contributor}</b><br/>${mine.length} goodies agregados</td></tr>`
+    return `
+        <tr>
+          <td>
+            <a href="${url}" title="@${contributor}"><img src="${url}.png?size=40"/></a>
+          </td>
+          <td>
+            <b>@${contributor}</b><br/>${mine.length} goodies agregados
+          </td>
+        </tr>`
   })
   .join("")
 
@@ -76,7 +82,7 @@ module.exports = `
 
 Repositorio que intenta **acumular** una lista de temas y recursos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
-nuevo, que de cierta manera no la verás en la Universidad
+nuevo, que de cierta manera no la verás en la Universidad.
 
 > Puede tener ciertos ó muchos **horrores** de ortografía, porfis ayudame , 
 corrigiendo eso
@@ -89,10 +95,10 @@ ${updates.map((update, i) => {
 
 # The List
 
-A continuación podras ver una lista de recursos y herramientas, con las que
-puedes fortalecer la menera en que codificas :3
+A continuación, podras ver una lista de recursos y herramientas, las cuales
+te permitirán fortalecer la manera en que codificas :3
 
-# Guía rapída
+# Guía rápida!
 
 ${guide.join("\n")}
 
@@ -109,5 +115,5 @@ ${_goodies}
 # Contribute
 - [./CONTRIBUTING.md](./CONTRIBUTING.md)
 
-> Cualquier PR es bienvenido ! 
+> Cualquier PR es bienvenido! 
 `.trim("")
