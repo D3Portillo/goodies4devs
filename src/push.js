@@ -9,5 +9,5 @@ if (token) {
     .addConfig("user.email", "d3portillo@gmail.com")
     .add(".")
     .commit("merges_data[bot] :zap:")
-    .push(remote, "master")
+    .push(rem, "master")
 } else console.log("Token not provided")
