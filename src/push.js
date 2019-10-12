@@ -1,7 +1,6 @@
 const token = process.env.TOKEN || false
 const git = require("simple-git")
-const remote = `https://D3Portillo:${token}@self-taught-devs`
-const rem = "https://github.com/D3Portillo/self-taught-devs.git"
+const url = "https://github.com/D3Portillo/self-taught-devs.git"
 if (token) {
   git()
     .checkout("master")
@@ -9,5 +8,5 @@ if (token) {
     .addConfig("user.email", "d3portillo@gmail.com")
     .add(".")
     .commit("merges_data[bot] :zap:")
-    .push(rem, "master")
+    .push(url, "master")
 } else console.log("Token not provided")
