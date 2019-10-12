@@ -4,6 +4,7 @@
   },
   "scripts": {
     "build": "node ./src/build.js",
-    "test": "node ./src/test.js"
+    "test": "node ./src/test.js",
+    "push": "node ./src/push.js"
   }
 }
