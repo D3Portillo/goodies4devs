@@ -111,3 +111,8 @@ contributor = "@Ariel2294"
 website = "https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg/"
 type = "yt"
 
+["Alberto Picazo"]
+description = "Tutoriales de programación, desarrollo web: Angular, .NET, Azure..."
+contributor = "@beelzenef"
+website = "https://www.youtube.com/channel/UCFqtx4TdoNb_YhcVFNYPraA"
+type = "yt"
