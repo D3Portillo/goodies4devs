@@ -73,6 +73,13 @@ share, and the tools you use come together to get things done.
 > Cursos online de desarrollo web frontend, backend, desarrollo móvil para Android
 y iOS y mucho más.
 
+### [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg/) 
+> En este Canal Podrás Encontrar Todo de Programación y Desarrollo Web con las
+mejores Prŕacticas.
+
+### [Alberto Picazo](https://www.youtube.com/channel/UCFqtx4TdoNb_YhcVFNYPraA) 
+> Tutoriales de programación, desarrollo web: Angular, .NET, Azure...
+
 
 # Libros / lectura 
 ### [HTTP Status Codes definitions](https://www.restapitutorial.com/httpstatuscodes.html) 
@@ -143,7 +150,9 @@ assessment platform and advanced coding tests.
     </td><td><b>@xDidier901</b><br/>2 goodies agregados</td></tr><tr><td><a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
     </td><td><b>@glopez97</b><br/>4 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
     </td><td><b>@SorielV</b><br/>1 goodies agregados</td></tr><tr><td><a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
-    </td><td><b>@ivigilm</b><br/>2 goodies agregados</td></tr></tbody>
+    </td><td><b>@ivigilm</b><br/>2 goodies agregados</td></tr><tr><td><a href="https://github.com/Ariel2294" title="@Ariel2294"><img src="https://github.com/Ariel2294.png?size=40"/></a>
+    </td><td><b>@Ariel2294</b><br/>1 goodies agregados</td></tr><tr><td><a href="https://github.com/beelzenef" title="@beelzenef"><img src="https://github.com/beelzenef.png?size=40"/></a>
+    </td><td><b>@beelzenef</b><br/>1 goodies agregados</td></tr></tbody>
 </table>
 
 # Contribute
