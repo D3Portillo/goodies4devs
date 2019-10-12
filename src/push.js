@@ -1,11 +1,10 @@
 const token = process.env.TOKEN || false
 const git = require("simple-git")
-const url = "https://github.com/D3Portillo/self-taught-devs.git"
+const url = `https://D3Portillo:${token}@github.com/D3Portillo/self-taught-devs.git`
 if (token) {
   git()
+    .removeRemote("origin")
     .checkout("master")
-    .addConfig("user.name", "D3Portillo")
-    .addConfig("user.email", "d3portillo@gmail.com")
     .add(".")
     .commit("merges_data[bot] :zap:")
     .push(url, "master")
