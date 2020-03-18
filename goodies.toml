@@ -64,6 +64,30 @@ website = "https://www.restapitutorial.com/httpstatuscodes.html"
 contributor = "@glopez97"
 type = "reading"
 
+["Robo 3T"]
+description = "Great alternative for MongoDB Compass"
+website = "https://robomongo.org/"
+contributor = "@glopez97"
+type = "tool"
+
+["AWS Calculator"]
+description = "The best way to check the cost of our architectures in AWS"
+website = "https://calculator.aws"
+contributor = "@glopez97"
+type = "tool"
+
+["Draw.io"]
+description = "If you are searching for a software to make diagrams you really need to use it. Is also one of the best tools for making AWS diagrams"
+website = "https://app.diagrams.net"
+contributor = "@glopez97"
+type = "tool"
+
+["ShareX"]
+description = "The best tool for making screen captures in Windows."
+website = "https://getsharex.com/"
+contributor = "@glopez97"
+type = "tool"
+
 ["BOTO3 Documentation"]
 description = "Boto docs in a glimpse"
 website = "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"
