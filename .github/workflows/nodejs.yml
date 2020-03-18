@@ -21,7 +21,7 @@ jobs:
           npm install
           npm run build
       - name: Pushing changes on README
-        run: |
-          npm run push
         env:
           TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          npm run push
