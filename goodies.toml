@@ -76,6 +76,12 @@ website = "https://calculator.aws"
 contributor = "@glopez97"
 type = "tool"
 
+["WinAuth"]
+description = "Portable open-source Authenticator for Windows"
+website = "https://winauth.github.io/winauth/"
+contributor = "@glopez97"
+type = "tool"
+
 ["Draw.io"]
 description = "If you are searching for a software to make diagrams you really need to use it. Is also one of the best tools for making AWS diagrams"
 website = "https://app.diagrams.net"
