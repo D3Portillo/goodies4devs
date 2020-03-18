@@ -153,3 +153,9 @@ description = "Tutoriales de programación, desarrollo web: Angular, .NET, Azure
 contributor = "@beelzenef"
 website = "https://www.youtube.com/channel/UCFqtx4TdoNb_YhcVFNYPraA"
 type = "yt"
+
+
+["Dan Abramov"]
+description = "I didn’t make @reactjs • Telescope https://JustJavaScript.com • he/him"
+website = "https://twitter.com/dan_abramov"
+type = "twitter"
