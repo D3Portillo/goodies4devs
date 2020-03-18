@@ -156,6 +156,6 @@ type = "yt"
 
 
 ["Dan Abramov"]
-description = "I didn’t make @reactjs • Telescope https://JustJavaScript.com • he/him"
+description = "I didn’t make @reactjs • Telescope: https://JustJavaScript.com • he/him"
 website = "https://twitter.com/dan_abramov"
 type = "twitter"
