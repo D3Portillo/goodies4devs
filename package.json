@@ -4,8 +4,7 @@
     "toml": "^3.0.0"
   },
   "scripts": {
-    "build": "node ./src/build.js",
-    "test": "node ./src/test.js",
-    "push": "node ./src/push.js"
+    "build": "node ./src/README",
+    "test": "node ./src/toml.test"
   }
 }

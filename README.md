@@ -1,28 +1,18 @@
-# Self taught devs
+# Goodies For Devs
 
 Repositorio que intenta **acumular** una lista de temas y recursos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
 nuevo, que de cierta manera no la verás en la Universidad.
 
-> Puede tener ciertos ó muchos **horrores** de ortografía, porfis ayudame , 
-corrigiendo eso
-
-### Updates
-
-- **_Update 0_**: Se removieron los tutoriales y lectura de lenguajes y
-frameworks en especifico, está guia está pensada para herramientas y temas un
-poco más generales de desarrollo, como un canal de **youtube** que te ayudó
-mucho, un codecamp, y o herramientas que **facilita** la codificación no
-solamente de un lenaguaje y o herramienta especifíca.,- **_Update 1_**: Se automatizó el poder agregar goodies, se genera el README , CONTRIBUTING
-y otros archivos al hacer un merge a la master
+> Puede tener ciertos ó muchos **horrores** de ortografía, porfis ayudame corrigiendo eso
 
 # The List
 
-A continuación, podras ver una lista de recursos y herramientas, las cuales
-te permitirán fortalecer la manera en que codificas :3
+A continuación, podras ver una lista de recursos y herramientas sugeridas por devs cómo tu : ). Ellos listan estás herramientas porque saben que te ayudarán a fortalecer tus habilidades cómo desarrollador y que además fueron de muchisima ayuda para ellos.
 
-# Guía rápida!
+# Guía
 
+- [Sin especificar](#sin-especificar)
 - [Herramientas](#herramientas)
 - [Youtubers](#youtubers)
 - [Libros / lectura](#libros--lectura)
@@ -30,9 +20,25 @@ te permitirán fortalecer la manera en que codificas :3
 - [Hackathon / Codejam](#hackathon--codejam)
 - [Tutoriales](#tutoriales)
 - [Cursos](#cursos)
-- [Sin especificar](#sin-especificar)
 - [Perfiles de Twitter](#perfiles-de-twitter)
 - [Cheat Sheets](#cheat-sheets)
+
+
+
+# Sin especificar 
+### [Heroku](https://www.heroku.com) 
+> Heroku is a cloud platform that lets companies build, deliver, monitor and scale
+apps — we're the fastest way to go from idea to URL, bypassing all those
+infrastructure headaches.
+
+### [Codepen](https://codepen.io/) 
+> An online code editor, learning environment, and community for front-end web
+development using HTML, CSS and JavaScript code snippets.
+
+### [Codesignal/Codefights](https://app.codesignal.com/) 
+> Learn how you can go beyond resumes in technical hiring with a state-of-the-art
+assessment platform and advanced coding tests.
+
 
 # Herramientas 
 ### [JSFiddle](https://jsfiddle.net/) 
@@ -51,16 +57,36 @@ kata in the dojo and reach your highest potential.
 ### [HackerRank](https://www.hackerrank.com) 
 > HackerRank is a technology hiring platform that is the standard for assessing
 developer skills for over 1,500+ companies around the world.
-<br/>**El goodie es: freemium  :money_with_wings::free:**
+freemium :money_with_wings::free:
+### [Robo 3T](https://robomongo.org/) 
+> Great alternative for MongoDB Compass
+
+### [AWS Calculator](https://calculator.aws) 
+> The best way to check the cost of our architectures in AWS
+
+### [WinAuth](https://winauth.github.io/winauth/) 
+> Portable open-source Authenticator for Windows
+
+### [Draw.io](https://app.diagrams.net) 
+> If you are searching for a software to make diagrams you really need to use it.
+Is also one of the best tools for making AWS diagrams
+
+### [ShareX](https://getsharex.com/) 
+> The best tool for making screen captures in Windows.
 
 ### [Mattermost](https://mattermost.com/) 
 > Slack but opensource
 
+### [Typora](https://typora.io/) 
+> Minimalistic markdown editor
+
+### [RegExr](https://regexr.com/) 
+> RegExr is an online tool to learn, build, & test Regular Expressions
+
 ### [Slack](https://slack.com/) 
 > Slack is where work flows. It's where the people you need, the information you
 share, and the tools you use come together to get things done.
-<br/>**El goodie es: freemium  :money_with_wings::free:**
-
+freemium :money_with_wings::free:
 ### [Repl.it](https://repl.it/) 
 > An online IDE for learn, build, collaborate, and host all in one place.
 
@@ -117,45 +143,36 @@ screencast. As a result, you'll learn faster and have more fun.
 # Cursos 
 
 
-# Sin especificar 
-### [Heroku](https://www.heroku.com) 
-> Heroku is a cloud platform that lets companies build, deliver, monitor and scale
-apps — we're the fastest way to go from idea to URL, bypassing all those
-infrastructure headaches.
-
-### [Codepen](https://codepen.io/) 
-> An online code editor, learning environment, and community for front-end web
-development using HTML, CSS and JavaScript code snippets.
-
-### [Codesignal/Codefights](https://app.codesignal.com/) 
-> Learn how you can go beyond resumes in technical hiring with a state-of-the-art
-assessment platform and advanced coding tests.
-
-### [Typora](https://typora.io/) 
-> Minimalistic markdown editor
-
-
 # Perfiles de Twitter 
+### [Dan Abramov](https://twitter.com/dan_abramov) 
+> I didn’t make @reactjs • Telescope: https://JustJavaScript.com • he/him
 
 
 # Cheat Sheets 
 
 
-# Gracias a los contributors! 
+# 🥳 Gracias a los contributors
 
 <table>
   <tbody><tr><td><a href="https://github.com/d3portillo" title="@d3portillo"><img src="https://github.com/d3portillo.png?size=40"/></a>
-    </td><td><b>@d3portillo</b><br/>5 goodies agregados</td></tr><tr><td><a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
-    </td><td><b>@emrivero</b><br/>5 goodies agregados</td></tr><tr><td><a href="https://github.com/xDidier901" title="@xDidier901"><img src="https://github.com/xDidier901.png?size=40"/></a>
-    </td><td><b>@xDidier901</b><br/>2 goodies agregados</td></tr><tr><td><a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
-    </td><td><b>@glopez97</b><br/>4 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
-    </td><td><b>@SorielV</b><br/>1 goodies agregados</td></tr><tr><td><a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
-    </td><td><b>@ivigilm</b><br/>2 goodies agregados</td></tr><tr><td><a href="https://github.com/Ariel2294" title="@Ariel2294"><img src="https://github.com/Ariel2294.png?size=40"/></a>
-    </td><td><b>@Ariel2294</b><br/>1 goodies agregados</td></tr><tr><td><a href="https://github.com/beelzenef" title="@beelzenef"><img src="https://github.com/beelzenef.png?size=40"/></a>
-    </td><td><b>@beelzenef</b><br/>1 goodies agregados</td></tr></tbody>
+    </td><td><a href="https://github.com/d3portillo" title="@d3portillo"><b>@d3portillo</b></a><br/>
+    6 goodies agregados</td></tr><tr><td><a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
+    </td><td><a href="https://github.com/emrivero" title="@emrivero"><b>@emrivero</b></a><br/>
+    5 goodies agregados</td></tr><tr><td><a href="https://github.com/xDidier901" title="@xDidier901"><img src="https://github.com/xDidier901.png?size=40"/></a>
+    </td><td><a href="https://github.com/xDidier901" title="@xDidier901"><b>@xDidier901</b></a><br/>
+    2 goodies agregados</td></tr><tr><td><a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
+    </td><td><a href="https://github.com/glopez97" title="@glopez97"><b>@glopez97</b></a><br/>
+    10 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
+    </td><td><a href="https://github.com/SorielV" title="@SorielV"><b>@SorielV</b></a><br/>
+    1 goodies agregados</td></tr><tr><td><a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
+    </td><td><a href="https://github.com/ivigilm" title="@ivigilm"><b>@ivigilm</b></a><br/>
+    2 goodies agregados</td></tr><tr><td><a href="https://github.com/Ariel2294" title="@Ariel2294"><img src="https://github.com/Ariel2294.png?size=40"/></a>
+    </td><td><a href="https://github.com/Ariel2294" title="@Ariel2294"><b>@Ariel2294</b></a><br/>
+    1 goodies agregados</td></tr><tr><td><a href="https://github.com/beelzenef" title="@beelzenef"><img src="https://github.com/beelzenef.png?size=40"/></a>
+    </td><td><a href="https://github.com/beelzenef" title="@beelzenef"><b>@beelzenef</b></a><br/>
+    1 goodies agregados</td></tr></tbody>
 </table>
 
-# Contribute
-- [./CONTRIBUTING.md](./CONTRIBUTING.md)
+# 🧐 Cómo colaborar
 
-> Cualquier PR es bienvenido!
+Cualquier PR es bienvenido, [ver cómo contribuir.](./CONTRIBUTING.md)

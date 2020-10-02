@@ -96,5 +96,7 @@ public
 
 # DynamoDB Local files
 .dynamodb/
+
+# Extra folders and files
 package-lock.json
 .vscode/
