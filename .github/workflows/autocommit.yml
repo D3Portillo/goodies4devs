@@ -19,7 +19,7 @@ jobs:
           npm install
           npm run build
       - name: automerge
-      - uses: squalrus/merge-bot@v0.1.0
+        uses: squalrus/merge-bot@v0.1.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           test: true
