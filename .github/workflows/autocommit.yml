@@ -1,11 +1,7 @@
 name: Updating readme file
 on:
   pull_request:
-    types:
-      - labeled
-  pull_request_review:
-    types:
-      - submitted
+    types: [labeled]
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,8 +16,6 @@ jobs:
           npm install
           npm run build
       - name: automerging
-        uses: squalrus/merge-bot@v0.1.0
+        uses: plm9606/automerge_actions@1.2.2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          labels: automerge,ready
-          blocking_labels: no-merge
+          github-token: ${{ secrets.GITHUB_TOKEN }}
