@@ -70,6 +70,12 @@ website = "https://robomongo.org/"
 contributor = "@glopez97"
 type = "tool"
 
+["Jetbrains Baclground generator"]
+description = "Art Meets Code"
+website = "https://code2art.jetbrains.com/"
+contributor = "@gerardev"
+type = "tool"
+
 ["AWS Calculator"]
 description = "The best way to check the cost of our architectures in AWS"
 website = "https://calculator.aws"
