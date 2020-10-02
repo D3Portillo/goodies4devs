@@ -61,6 +61,9 @@ freemium :money_with_wings::free:
 ### [Robo 3T](https://robomongo.org/) 
 > Great alternative for MongoDB Compass
 
+### [Jetbrains Baclground generator](https://code2art.jetbrains.com/) 
+> Art Meets Code
+
 ### [AWS Calculator](https://calculator.aws) 
 > The best way to check the cost of our architectures in AWS
 
@@ -162,7 +165,9 @@ screencast. As a result, you'll learn faster and have more fun.
     </td><td><a href="https://github.com/xDidier901" title="@xDidier901"><b>@xDidier901</b></a><br/>
     2 goodies agregados</td></tr><tr><td><a href="https://github.com/glopez97" title="@glopez97"><img src="https://github.com/glopez97.png?size=40"/></a>
     </td><td><a href="https://github.com/glopez97" title="@glopez97"><b>@glopez97</b></a><br/>
-    10 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
+    10 goodies agregados</td></tr><tr><td><a href="https://github.com/gerardev" title="@gerardev"><img src="https://github.com/gerardev.png?size=40"/></a>
+    </td><td><a href="https://github.com/gerardev" title="@gerardev"><b>@gerardev</b></a><br/>
+    1 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
     </td><td><a href="https://github.com/SorielV" title="@SorielV"><b>@SorielV</b></a><br/>
     1 goodies agregados</td></tr><tr><td><a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
     </td><td><a href="https://github.com/ivigilm" title="@ivigilm"><b>@ivigilm</b></a><br/>
