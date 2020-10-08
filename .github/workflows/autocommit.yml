@@ -7,8 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: master
       - name: Intalling NodeJS
         uses: actions/setup-node@v1
         with:
@@ -21,4 +19,5 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "AUTOGEN README"
-          git push
+      - name: Creating PR
+        uses: peter-evans/create-pull-request@v3
