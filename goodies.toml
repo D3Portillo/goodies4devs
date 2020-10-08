@@ -171,3 +171,8 @@ type = "yt"
 description = "I didn’t make @reactjs • Telescope: https://JustJavaScript.com • he/him"
 website = "https://twitter.com/dan_abramov"
 type = "twitter"
+
+["Guillermo Rauch"]
+description = "https://vercel.com CEO"
+website = "https://twitter.com/rauchg"
+type = "twitter"
