@@ -70,6 +70,12 @@ website = "https://robomongo.org/"
 contributor = "@glopez97"
 type = "tool"
 
+["Serverless Framework"]
+description = "zero-friction serverless development"
+website = "https://serverless.com"
+contributor = "@gerardev"
+type = "tool"
+
 ["Jetbrains Baclground generator"]
 description = "Art Meets Code"
 website = "https://code2art.jetbrains.com/"
