@@ -1,0 +1,193 @@
+["Heroku"]
+description = "Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches."
+website= "https://www.heroku.com"
+
+["Codepen"]
+description = "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets."
+website = "https://codepen.io/"
+
+["JSFiddle"]
+description = "An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets."
+website = "https://jsfiddle.net/"
+contributor = "@emrivero"
+type = "tool"
+
+["CheckIO"]
+description = "Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and JavaScript."
+website = "https://checkio.org/"
+contributor = "@emrivero"
+type = "tool"
+
+["CodeWars"]
+description = "Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential."
+website = "https://www.codewars.com/"
+contributor = "@emrivero"
+type = "tool"
+
+["HackerRank"]
+description = "HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 1,500+ companies around the world."
+website = "https://www.hackerrank.com"
+contributor = "@xDidier901"
+type = "tool"
+money = "freemium"
+
+["OWASP"]
+description = "The Open Web Application Security Project (OWASP) is a worldwide not-for-profit charitable organization focused on improving the security of software."
+website = "https://www.owasp.org/index.php/Main_Page"
+contributor = "@xDidier901"
+type = "tutorial"
+
+["W3Schools"]
+description = "W3Schools is an educational website for learning web technologies online"
+website = "https://www.w3schools.com/"
+contributor = "@emrivero"
+type = "tutorial"
+
+["freeCodeCamp"]
+description = "freeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone"
+website = "https://www.freecodecamp.org/"
+contributor = "@emrivero"
+type = "codecamp"
+
+["Codesignal/Codefights"]
+description = "Learn how you can go beyond resumes in technical hiring with a state-of-the-art assessment platform and advanced coding tests."
+website = "https://app.codesignal.com/"
+
+["Scrimba"]
+description = "Scrimba lets you play around with the instructor's code directly inside the screencast. As a result, you'll learn faster and have more fun."
+website = "https://scrimba.com/"
+type = "tutorial"
+
+["HTTP Status Codes definitions"]
+description = "This page is created from HTTP status code information found at ietf.org and Wikipedia."
+website = "https://www.restapitutorial.com/httpstatuscodes.html"
+contributor = "@glopez97"
+type = "reading"
+
+["Robo 3T"]
+description = "Great alternative for MongoDB Compass"
+website = "https://robomongo.org/"
+contributor = "@glopez97"
+type = "tool"
+
+["Serverless Framework"]
+description = "zero-friction serverless development"
+website = "https://serverless.com"
+contributor = "@gerardev"
+type = "tool"
+
+["Jetbrains Baclground generator"]
+description = "Art Meets Code"
+website = "https://code2art.jetbrains.com/"
+contributor = "@gerardev"
+type = "tool"
+
+["AWS Calculator"]
+description = "The best way to check the cost of our architectures in AWS"
+website = "https://calculator.aws"
+contributor = "@glopez97"
+type = "tool"
+
+["WinAuth"]
+description = "Portable open-source Authenticator for Windows"
+website = "https://winauth.github.io/winauth/"
+contributor = "@glopez97"
+type = "tool"
+
+["Draw.io"]
+description = "If you are searching for a software to make diagrams you really need to use it. Is also one of the best tools for making AWS diagrams"
+website = "https://app.diagrams.net"
+contributor = "@glopez97"
+type = "tool"
+
+["ShareX"]
+description = "The best tool for making screen captures in Windows."
+website = "https://getsharex.com/"
+contributor = "@glopez97"
+type = "tool"
+
+["BOTO3 Documentation"]
+description = "Boto docs in a glimpse"
+website = "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"
+contributor = "@glopez97"
+type = "reading"
+
+["Mattermost"]
+description = "Slack but opensource"
+website = "https://mattermost.com/"
+contributor = "@glopez97"
+type = "tool"
+
+["Typora"]
+description = "Minimalistic markdown editor"
+website = "https://typora.io/"
+contributor = "@glopez97"
+type = "tool"
+
+["RegExr"]
+description = "RegExr is an online tool to learn, build, & test Regular Expressions"
+website = "https://regexr.com/"
+contributor = "@glopez97"
+type = "tool"
+
+["Slack"]
+description = "Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done."
+website = "https://slack.com/"
+type = "tool"
+money = "freemium"
+
+["Repl.it"]
+description = "An online IDE for learn, build, collaborate, and host all in one place."
+website = "https://repl.it/"
+contributor = "@SorielV"
+type = "tool"
+
+["Píldoras informáticas"]
+description = "Tutoriales de ofimática, programación, diseño gráfico y web."
+contributor = "@ivigilm"
+website = "https://www.youtube.com/user/pildorasinformaticas"
+type = "yt"
+
+["Código facilito"]
+description = "Cursos online de desarrollo web frontend, backend, desarrollo móvil para Android y iOS y mucho más."
+contributor = "@ivigilm"
+website = "https://www.youtube.com/user/codigofacilito"
+type = "yt"
+
+["Fazt"]
+description = "En este Canal Podrás Encontrar Todo de Programación y Desarrollo Web con las mejores Prŕacticas."
+contributor = "@Ariel2294"
+website = "https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg/"
+type = "yt"
+
+["Alberto Picazo"]
+description = "Tutoriales de programación, desarrollo web: Angular, .NET, Azure..."
+contributor = "@beelzenef"
+website = "https://www.youtube.com/channel/UCFqtx4TdoNb_YhcVFNYPraA"
+type = "yt"
+
+
+["Dan Abramov"]
+description = "I didn’t make @reactjs • Telescope: https://JustJavaScript.com • he/him"
+website = "https://twitter.com/dan_abramov"
+type = "twitter"
+
+["Guillermo Rauch"]
+description = "https://vercel.com CEO"
+website = "https://twitter.com/rauchg"
+type = "twitter"
+
+["Freddy Vega"]
+description = "#NuncaParesDeAprender #PlatziSePagaSolo CEO, Cofounder at Platzi"
+website = "https://twitter.com/freddier"
+type = "twitter"
+
+["Elvis Gomez"]
+description = "Aprender y crear con JS es lo maximo!"
+website = "https://www.linkedin.com/in/elvisgmz/"
+type = "linkedin"
+
+["OverAPI"]
+description = "Programming & Libraries' Cheat Sheets"
+website = "https://overapi.com/"
+contributor = "@SoldierHD"

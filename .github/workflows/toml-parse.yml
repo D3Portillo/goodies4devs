@@ -1,0 +1,19 @@
+name: Checking toml syntax
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - reopened
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Testing goodies.toml
+        run: |
+          npm install
+          npm run test
