@@ -191,3 +191,17 @@ type = "linkedin"
 description = "Programming & Libraries' Cheat Sheets"
 website = "https://overapi.com/"
 contributor = "@SoldierHD"
+
+["Sizzy"]
+description = "The browser for developers. Stop wasting time and speed up your development workflow. "
+website = "https://sizzy.co/"
+contributor = "@chrisft25"
+type = "tool"
+money = "paid"
+
+["ClassCentral"]
+description = "Love to learn? Discover thousands of FREE online courses and MOOCs from top universities and companies on Class Central."
+website = "https://www.classcentral.com/"
+contributor = "@chrisft25"
+type = "course"
+money = "freemium"
