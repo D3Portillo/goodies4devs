@@ -176,3 +176,8 @@ type = "twitter"
 description = "https://vercel.com CEO"
 website = "https://twitter.com/rauchg"
 type = "twitter"
+
+["Freddy Vega"]
+description = "#NuncaParesDeAprender #PlatziSePagaSolo CEO, Cofounder at Platzi"
+website = "https://twitter.com/freddier"
+type = "twitter"
