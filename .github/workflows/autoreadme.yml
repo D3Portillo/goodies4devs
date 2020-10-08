@@ -1,10 +1,7 @@
 name: Builds README
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  push:
-    branches:
-      - master
+    - cron: "0 */8 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
