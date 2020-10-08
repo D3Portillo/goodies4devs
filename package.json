@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "simple-git": "^1.126.0",
     "toml": "^3.0.0"
   },
   "scripts": {

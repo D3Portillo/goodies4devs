@@ -1,0 +1,23 @@
+name: Builds README
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12"
+      - name: Building README
+        run: npm install
+        run: npm run build
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Updates README.md
