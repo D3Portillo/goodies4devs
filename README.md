@@ -61,6 +61,9 @@ freemium :money_with_wings::free:
 ### [Robo 3T](https://robomongo.org/) 
 > Great alternative for MongoDB Compass
 
+### [Serverless Framework](https://serverless.com) 
+> zero-friction serverless development
+
 ### [Jetbrains Baclground generator](https://code2art.jetbrains.com/) 
 > Art Meets Code
 
@@ -150,6 +153,12 @@ screencast. As a result, you'll learn faster and have more fun.
 ### [Dan Abramov](https://twitter.com/dan_abramov) 
 > I didn’t make @reactjs • Telescope: https://JustJavaScript.com • he/him
 
+### [Guillermo Rauch](https://twitter.com/rauchg) 
+> https://vercel.com CEO
+
+### [Freddy Vega](https://twitter.com/freddier) 
+> #NuncaParesDeAprender #PlatziSePagaSolo CEO, Cofounder at Platzi
+
 
 # Cheat Sheets 
 
@@ -159,7 +168,7 @@ screencast. As a result, you'll learn faster and have more fun.
 <table>
   <tbody><tr><td><a href="https://github.com/d3portillo" title="@d3portillo"><img src="https://github.com/d3portillo.png?size=40"/></a>
     </td><td><a href="https://github.com/d3portillo" title="@d3portillo"><b>@d3portillo</b></a><br/>
-    6 goodies agregados</td></tr><tr><td><a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
+    8 goodies agregados</td></tr><tr><td><a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
     </td><td><a href="https://github.com/emrivero" title="@emrivero"><b>@emrivero</b></a><br/>
     5 goodies agregados</td></tr><tr><td><a href="https://github.com/xDidier901" title="@xDidier901"><img src="https://github.com/xDidier901.png?size=40"/></a>
     </td><td><a href="https://github.com/xDidier901" title="@xDidier901"><b>@xDidier901</b></a><br/>
@@ -167,7 +176,7 @@ screencast. As a result, you'll learn faster and have more fun.
     </td><td><a href="https://github.com/glopez97" title="@glopez97"><b>@glopez97</b></a><br/>
     10 goodies agregados</td></tr><tr><td><a href="https://github.com/gerardev" title="@gerardev"><img src="https://github.com/gerardev.png?size=40"/></a>
     </td><td><a href="https://github.com/gerardev" title="@gerardev"><b>@gerardev</b></a><br/>
-    1 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
+    2 goodies agregados</td></tr><tr><td><a href="https://github.com/SorielV" title="@SorielV"><img src="https://github.com/SorielV.png?size=40"/></a>
     </td><td><a href="https://github.com/SorielV" title="@SorielV"><b>@SorielV</b></a><br/>
     1 goodies agregados</td></tr><tr><td><a href="https://github.com/ivigilm" title="@ivigilm"><img src="https://github.com/ivigilm.png?size=40"/></a>
     </td><td><a href="https://github.com/ivigilm" title="@ivigilm"><b>@ivigilm</b></a><br/>
