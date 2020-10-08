@@ -16,8 +16,9 @@ jobs:
         with:
           node-version: "12"
       - name: Building README
-        run: npm install
-        run: npm run build
+        run: |
+          npm install
+          npm run build
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Updates README.md
