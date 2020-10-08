@@ -102,6 +102,10 @@ freemium :money_with_wings::free:
 ### [Repl.it](https://repl.it/) 
 > An online IDE for learn, build, collaborate, and host all in one place.
 
+### [Sizzy](https://sizzy.co/) 
+> The browser for developers. Stop wasting time and speed up your development
+workflow. 
+de paga :money_with_wings:
 
 # Youtubers 
 ### [Píldoras informáticas](https://www.youtube.com/user/pildorasinformaticas) 
@@ -153,7 +157,10 @@ screencast. As a result, you'll learn faster and have more fun.
 
 
 # Cursos 
-
+### [ClassCentral](https://www.classcentral.com/) 
+> Love to learn? Discover thousands of FREE online courses and MOOCs from top
+universities and companies on Class Central.
+freemium :money_with_wings::free:
 
 # Perfiles de Twitter 
 ### [Dan Abramov](https://twitter.com/dan_abramov) 
@@ -192,7 +199,9 @@ screencast. As a result, you'll learn faster and have more fun.
     </td><td><a href="https://github.com/beelzenef" title="@beelzenef"><b>@beelzenef</b></a><br/>
     1 goodies agregados</td></tr><tr><td><a href="https://github.com/SoldierHD" title="@SoldierHD"><img src="https://github.com/SoldierHD.png?size=40"/></a>
     </td><td><a href="https://github.com/SoldierHD" title="@SoldierHD"><b>@SoldierHD</b></a><br/>
-    1 goodies agregados</td></tr></tbody>
+    1 goodies agregados</td></tr><tr><td><a href="https://github.com/chrisft25" title="@chrisft25"><img src="https://github.com/chrisft25.png?size=40"/></a>
+    </td><td><a href="https://github.com/chrisft25" title="@chrisft25"><b>@chrisft25</b></a><br/>
+    2 goodies agregados</td></tr></tbody>
 </table>
 
 # 🧐 Cómo colaborar
