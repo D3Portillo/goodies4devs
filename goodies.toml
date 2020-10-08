@@ -181,3 +181,9 @@ type = "twitter"
 description = "#NuncaParesDeAprender #PlatziSePagaSolo CEO, Cofounder at Platzi"
 website = "https://twitter.com/freddier"
 type = "twitter"
+
+
+["Elvis Gomez"]
+description = "Aprender y crear con JS es lo maximo!"
+website = "https://www.linkedin.com/in/elvisgmz/"
+type = "linkedin"
