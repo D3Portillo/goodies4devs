@@ -39,6 +39,9 @@ development using HTML, CSS and JavaScript code snippets.
 > Learn how you can go beyond resumes in technical hiring with a state-of-the-art
 assessment platform and advanced coding tests.
 
+### [Elvis Gomez](https://www.linkedin.com/in/elvisgmz/) 
+> Aprender y crear con JS es lo maximo!
+
 
 # Herramientas 
 ### [JSFiddle](https://jsfiddle.net/) 
@@ -168,7 +171,7 @@ screencast. As a result, you'll learn faster and have more fun.
 <table>
   <tbody><tr><td><a href="https://github.com/d3portillo" title="@d3portillo"><img src="https://github.com/d3portillo.png?size=40"/></a>
     </td><td><a href="https://github.com/d3portillo" title="@d3portillo"><b>@d3portillo</b></a><br/>
-    8 goodies agregados</td></tr><tr><td><a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
+    9 goodies agregados</td></tr><tr><td><a href="https://github.com/emrivero" title="@emrivero"><img src="https://github.com/emrivero.png?size=40"/></a>
     </td><td><a href="https://github.com/emrivero" title="@emrivero"><b>@emrivero</b></a><br/>
     5 goodies agregados</td></tr><tr><td><a href="https://github.com/xDidier901" title="@xDidier901"><img src="https://github.com/xDidier901.png?size=40"/></a>
     </td><td><a href="https://github.com/xDidier901" title="@xDidier901"><b>@xDidier901</b></a><br/>
