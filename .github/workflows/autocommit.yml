@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: ${{ github.head_ref }}
+          ref: master
       - name: Intalling NodeJS
         uses: actions/setup-node@v1
         with:
@@ -17,6 +17,8 @@ jobs:
         run: |
           npm install
           npm run build
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Auto updates README.md
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "AUTOGEN README"
+          git push
