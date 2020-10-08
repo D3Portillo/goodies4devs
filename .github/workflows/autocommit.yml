@@ -21,3 +21,4 @@ jobs:
           git commit -m "AUTOGEN README"
       - name: Creating PR
         uses: peter-evans/create-pull-request@v3
+            base: master
