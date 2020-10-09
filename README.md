@@ -106,6 +106,9 @@ freemium :money_with_wings::free:
 > The browser for developers. Stop wasting time and speed up your development
 workflow. 
 de paga :money_with_wings:
+### [GitHub Profile ReadMe Generator](https://github.com/rahuldkjain/github-profile-readme-generator) 
+> ReadMe Generator for GitHub Profile
+
 
 # Youtubers 
 ### [Píldoras informáticas](https://www.youtube.com/user/pildorasinformaticas) 
@@ -199,7 +202,7 @@ freemium :money_with_wings::free:
     </td><td><a href="https://github.com/beelzenef" title="@beelzenef"><b>@beelzenef</b></a><br/>
     1 goodies agregados</td></tr><tr><td><a href="https://github.com/SoldierHD" title="@SoldierHD"><img src="https://github.com/SoldierHD.png?size=40"/></a>
     </td><td><a href="https://github.com/SoldierHD" title="@SoldierHD"><b>@SoldierHD</b></a><br/>
-    1 goodies agregados</td></tr><tr><td><a href="https://github.com/chrisft25" title="@chrisft25"><img src="https://github.com/chrisft25.png?size=40"/></a>
+    2 goodies agregados</td></tr><tr><td><a href="https://github.com/chrisft25" title="@chrisft25"><img src="https://github.com/chrisft25.png?size=40"/></a>
     </td><td><a href="https://github.com/chrisft25" title="@chrisft25"><b>@chrisft25</b></a><br/>
     2 goodies agregados</td></tr></tbody>
 </table>
