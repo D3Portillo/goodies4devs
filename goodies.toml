@@ -205,3 +205,9 @@ website = "https://www.classcentral.com/"
 contributor = "@chrisft25"
 type = "course"
 money = "freemium"
+
+["GitHub Profile ReadMe Generator"]
+description = "ReadMe Generator for GitHub Profile"
+website = "https://github.com/rahuldkjain/github-profile-readme-generator"
+contributor = "@SoldierHD"
+type = "tool"
