@@ -213,7 +213,7 @@ contributor = "@SoldierHD"
 type = "tool"
 
 ["Hugo Framework"]
-description = Open-source static site generators"
+description = "Open-source static site generators"
 website = "https://gohugo.io/"
 contributor = "@SoldierHD"
 type = "tool"
