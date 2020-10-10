@@ -211,3 +211,9 @@ description = "ReadMe Generator for GitHub Profile"
 website = "https://github.com/rahuldkjain/github-profile-readme-generator"
 contributor = "@SoldierHD"
 type = "tool"
+
+["Hugo Framework"]
+description = "Open-source static site generators"
+website = "https://gohugo.io/"
+contributor = "@SoldierHD"
+type = "tool"
