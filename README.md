@@ -112,6 +112,9 @@ de paga :money_with_wings:
 ### [Hugo Framework](https://gohugo.io/) 
 > Open-source static site generators
 
+### [ClickUp](https://clickup.com/) 
+> All your work in one place: Tasks, docs, chat, goals, & more
+
 
 # Youtubers 
 ### [Píldoras informáticas](https://www.youtube.com/user/pildorasinformaticas) 
@@ -205,7 +208,7 @@ freemium :money_with_wings::free:
     </td><td><a href="https://github.com/beelzenef" title="@beelzenef"><b>@beelzenef</b></a><br/>
     1 goodies agregados</td></tr><tr><td><a href="https://github.com/SoldierHD" title="@SoldierHD"><img src="https://github.com/SoldierHD.png?size=40"/></a>
     </td><td><a href="https://github.com/SoldierHD" title="@SoldierHD"><b>@SoldierHD</b></a><br/>
-    3 goodies agregados</td></tr><tr><td><a href="https://github.com/chrisft25" title="@chrisft25"><img src="https://github.com/chrisft25.png?size=40"/></a>
+    4 goodies agregados</td></tr><tr><td><a href="https://github.com/chrisft25" title="@chrisft25"><img src="https://github.com/chrisft25.png?size=40"/></a>
     </td><td><a href="https://github.com/chrisft25" title="@chrisft25"><b>@chrisft25</b></a><br/>
     2 goodies agregados</td></tr></tbody>
 </table>
