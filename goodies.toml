@@ -217,3 +217,9 @@ description = "Open-source static site generators"
 website = "https://gohugo.io/"
 contributor = "@SoldierHD"
 type = "tool"
+
+["ClickUp"]
+description = "All your work in one place: Tasks, docs, chat, goals, & more"
+website = "https://clickup.com/"
+contributor = "@SoldierHD"
+type = "tool"
