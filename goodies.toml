@@ -223,3 +223,10 @@ description = "All your work in one place: Tasks, docs, chat, goals, & more"
 website = "https://clickup.com/"
 contributor = "@SoldierHD"
 type = "tool"
+
+["KanbanFlow"]
+description="Lean Project Management, set your task and goals, control your due dates and priority of each task"
+website = "https://kanbanflow.com/"
+contributor = "@CSharles"
+type = "tool"
+money = "freemium"
