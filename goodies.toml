@@ -230,3 +230,11 @@ website = "https://kanbanflow.com/"
 contributor = "@CSharles"
 type = "tool"
 money = "freemium"
+
+
+["StackOverflow en Español"]
+description = "Donde los desarrolladores y tecnologos ganan y comparten conocimiento"
+website = "es.stackoverflow.com"
+contributor = "@CSharles"
+type = "none"
+money = "free"
