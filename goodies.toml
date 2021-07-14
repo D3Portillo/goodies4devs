@@ -227,20 +227,34 @@ type = "tool"
 ["KanbanFlow"]
 description="Lean Project Management, set your task and goals, control your due dates and priority of each task"
 website = "https://kanbanflow.com/"
-contributor = "@CSharles"
+contributor = "@csharls"
 type = "tool"
 money = "freemium"
 
 ["StackOverflow en Español"]
 description = "Donde los desarrolladores y tecnologos ganan y comparten conocimiento"
 website = "es.stackoverflow.com"
-contributor = "@CSharles"
+contributor = "@csharls"
 type = "none"
 money = "free"
 
 ["La Cocina del Código"]
 description = "Canal sobre diseño web y JavaScript"
 website = "https://www.youtube.com/c/LaCocinadelC%C3%B3digo/"
-contributor = "@CSharles"
+contributor = "@csharls"
 type = "yt"
+money = "free"
+
+["midudev"]
+description ="Canal sobre programación web fullstack"
+website = "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ"
+contributor = "@csharls"
+type = "yt"
+money = "free"
+
+["Git Command Explorer"]
+description = "Encuentra el comando de git que necesitas sin tener que rebuscarlo en la web"
+website = "https://gitexplorer.com/"
+contributor = "@csharls"
+type = "tool"
 money = "free"
